@@ -5,15 +5,17 @@ copyright: Logo and Favicon made by <a href="https://www.freepik.com" title="Fre
 repo_name: fga-eps-mds/2021.1-PC-GO1
 repo_url: https://github.com/fga-eps-mds/2021.1-PC-GO1
 
+edit_uri: ""
+
 extra_css:
   - stylesheets/extra.css
 
 theme:
   name: material
 
-  logo: assets/logo.png
+  logo: stylesheets/assets/logo.png
 
-  favicon: assets/logo.png
+  favicon: stylesheets/assets/logo.png
 
   icon:
     repo: fontawesome/brands/github
@@ -26,3 +28,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/fga-eps-mds/2021.1-PC-GO1
+
+nav:
+  - Documentação:
+    - Início: documentation.md
