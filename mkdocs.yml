@@ -29,6 +29,13 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/fga-eps-mds/2021.1-PC-GO1
 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 nav:
   - Documentação:
     - Início: documentation.md
+  - Artefatos pré sprints:
+    - Reuniões: reuniao.md
