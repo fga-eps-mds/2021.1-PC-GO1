@@ -80,6 +80,27 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Pontos** | -- |
 | **Critérios de aceitação** | - Validar se os metadados chegaram corretamente ao banco de dados. </br> - Garantir que os metadados do documento sejam persistidos corretamente.  |
 
+### US03
+#### Implementar o campo de pesquisa de documentos
+
+| US03 | Implementar o campo de pesquisa de documentos. |
+| ---: | :------- |
+| **Épico** | [Pesquisa de arquivos](#ep03) |
+| **Descrição** |Eu, **como** usuário, **desejo** preencher o campo de pesquisa **para que eu possa** realizar a busca no banco de dados. |
+| **Priorização** | 8 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Pesquisar por diferentes tipos de metadados. |
+
+### US04
+#### Listar os dados retornados da pesquisa por documento
+
+| US04 | Listar os dados retornados da pesquisa por documento. |
+| ---: | :------- |
+| **Épico** | [Pesquisa de arquivos](#ep03) |
+| **Descrição** |Eu, **como** usuário, **desejo** visualizar o retorno da pesquisa **para que eu possa** encontrar os documentos pesquisados. |
+| **Priorização** | 8 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Verificar se as informações da pesquisa estão corretas. </br> - Apresentar resultado da pesquisa corretamente. |
 
 
 ## Referências
