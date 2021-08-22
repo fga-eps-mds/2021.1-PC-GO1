@@ -301,7 +301,7 @@ Jitsi Meet
 |Membros|Participou|Justificativa para falta|
 |:------:| :--------: | :--------: | 
 |João Gabriel Rossi de Borba | :white_check_mark: | |
-|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :x: | Participação não era obrigatória |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
 |Filipe Pereira Fortes | :white_check_mark: |  |
