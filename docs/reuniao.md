@@ -376,7 +376,6 @@ O encontro foi definido por 2 partes:
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
-|Filipe Pereira Fortes | :white_check_mark: |  |
 |Lorenzo de Lima Alves dos Santos | :white_check_mark:| |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz |:white_check_mark: | |
@@ -408,11 +407,42 @@ O encontro foi definido por 2 partes:
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :x: | Era horário de aula |
-|Filipe Pereira Fortes | :white_check_mark:|  |
 |Lorenzo de Lima Alves dos Santos | :x:| Era horário de aula |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :x: | Era horário de aula |
 
+## 10 - Cliente 4
+
+**O que foi abordado**: 
+
+- Realizamos uma reunião com o cliente e o professor, no qual foi descartado a ideia de aproveitar o banco de dados do SIGED. 
+- Tiramos algumas dúvidas em relação ao projeto
+    - Somente o administrador pode editar os arquivos registrados?
+        - Não, membros do arquivo também podem alterar, porém membros externos não podem.
+    - Necessidade de página de fácil acesso aos arquivos encaminhados.
+        - Essa página não é necessária, porém o cliente pediu uma página para cadastrar e alterar a temporalidade dos documentos.
+
+
+
+**Dificuldades**: Nenhuma
+
+**Data** : 20/08/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  |  |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :x: | Nenhuma |
 
 
 
