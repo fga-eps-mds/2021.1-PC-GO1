@@ -1,5 +1,14 @@
 # Lean Inception
 
+Documento que resume o que foi tratado no workshop da Lean Inception da equipe
+
+## Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 21/08/21 | 0.9 | Adiciona o workshop Lean Inception da equipe | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 23/08/21 | 1.0 | Acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+
 ## Parte 1
 
 **O que foi abordado**: 
