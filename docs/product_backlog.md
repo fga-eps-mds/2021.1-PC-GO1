@@ -102,6 +102,104 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Pontos** | -- |
 | **Critérios de aceitação** | - Verificar se as informações da pesquisa estão corretas. </br> - Apresentar resultado da pesquisa corretamente. |
 
+### US05
+#### Filtrar a pesquisa de documentos a partir dos dados registrados 
+
+| US05 | Filtrar a pesquisa de documentos a partir dos dados registrados. |
+| ---: | :------- |
+| **Épico** | [Pesquisa de arquivos](#ep03) |
+| **Descrição** |Eu, **como** usuário, **desejo** filtrar os resultados de uma pesquisa a partir de um metadado **para que eu possa** encontrar um documento mais rápido. |
+| **Priorização** | 7 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Retornar documentos que possuem metadados em comum com o que foi inserido na pesquisa. |
+
+### US06
+####  Ordenar os dados listados
+
+| US06 | Ordenar os dados listados. |
+| ---: | :------- |
+| **Épico** | [Pesquisa de arquivos](#ep03) |
+| **Descrição** |Eu, **como** usuário, **desejo** receber a listagem dos documentos de forma ordenada **para que eu possa** procurar por um documento específico de forma simplificada. |
+| **Priorização** | 7 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Garantir que todo o resultado da pesquisa seja visualizado seguindo certa ordem. </br> - Garantir a visualização dos dados ao lado dos documentos de mesma ordem. |
+
+### US07
+####  Pesquisar um documento do banco de dados
+
+| US07 | Pesquisar um documento do banco de dados. |
+| ---: | :------- |
+| **Épico** | [Edição dos metadados de documentos](#ep04) |
+| **Descrição** |Eu, **como** usuário, **desejo** acessar os dados de um documento em específico **para que eu possa** visualizar os metadados do documento. |
+| **Priorização** | 8 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Garantir que a pesquisa retorne o documento desejado. |
+
+### US08
+####  Selecionar o modo editar do documento
+
+| US08 | Selecionar o modo editar do documento. |
+| ---: | :------- |
+| **Épico** | [Edição dos metadados de documentos](#ep04) |
+| **Descrição** |Eu, **como** usuário, **desejo** possuir uma aba para edição de metadados **para que eu possa** acessar a edição dos metadados do documento. |
+| **Priorização** | 6 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Redirecionar o usuário para a aba onde sera possivel recadastrar os metadados do documento. |
+
+### US09
+####  Substituir os novos dados no documento
+
+| US09 | Substituir os novos dados no documento. |
+| ---: | :------- |
+| **Épico** | [Edição dos metadados de documentos](#ep04) |
+| **Descrição** |Eu, **como** usuário, **desejo** editar os metadados do documento **para que eu possa** corrigir informações inseridas de forma errada. |
+| **Priorização** | 6 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Garantir o registro da alteração dos metadados do documento. |
+
+### US10
+####  Salvar a alteração do documento
+
+| US10 | Salvar a alteração do documento. |
+| ---: | :------- |
+| **Épico** | [Edição dos metadados de documentos](#ep04) |
+| **Descrição** |Eu, **como** usuário, **desejo** que os metadados alterados ou adicionados sejam armazenados **para que eu possa** substituir os velhos metadados pelos novos no documento. |
+| **Priorização** | 6 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Validar se os novos metadados chegaram corretamente ao banco de dados. </br> - Garantir que os novos metadados do documento sejam persistidos corretamente.  |
+
+### US11
+####  Implementar os campos de login e senha do usuário
+
+| US11 | Implementar os campos de login e senha do usuário. |
+| ---: | :------- |
+| **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
+| **Descrição** |Eu, **como** usuário, **desejo** preencher os campos de login e senha **para que eu possa** acessar o sistema web. |
+| **Priorização** | 7 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Validar os campos login e senha do usuário. |
+
+### US12
+####  Logar o usuário no sistema
+
+| US12 | Logar o usuário no sistema. |
+| ---: | :------- |
+| **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
+| **Descrição** |Eu, **como** usuário, **desejo** acessar os sistama web do arquivo geral **para que eu possa** registrar ou visualizar metadados de documentos. |
+| **Priorização** | 7 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Validar a autenticação do usuário. </br> Redirecionar o usuário a parte interna do sistema. |
+
+### US13
+####  Cadastrar os usuários no banco de dados
+
+| US13 | Cadastrar os usuários no banco de dados. |
+| ---: | :------- |
+| **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
+| **Descrição** |Eu, **como** usuário, **desejo** que o meu login e senha estejam cadastrados no banco de dados **para que eu possa** ter acesso constante ao sistema de arquivos. |
+| **Priorização** | 7 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Garantir que o login e senha esteja cadastrado no banco de dados. | 
 
 ## Referências
 
