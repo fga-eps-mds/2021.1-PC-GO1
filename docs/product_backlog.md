@@ -4,13 +4,13 @@
 
 |   Data   | Versão |       Descrição       |                 Autor(es)                  |
 | :------: | :----: | :-------------------: | :----------------------------------------: |
-| 01/09/19 |  0.10   | Criação do documento, dos épicos e das histórias | [Ivan Dobbin]((https://github.com/darmsDD)) e [João Rodrigues](https://github.com/rjoao) |
+| 24/08/21 |  0.3   | Alterando metodologia | [Joao Rossi]((https://github.com/bielrossi15)) |
 
 ## Introdução
 O atual documento tem por objetivo apresentar os épicos, as histórias de usuário (US) e o product backlog da plataforma SysArq. O backlog é composto por US's que são resolvidas em um período de tempo (sprint) e que pertencem a um contexto maior, no caso os épicos.
 
 ## Metodologia
-abacaxi
+Foi utilizado o PBB e o Lean Inception para chegar ao MVP e criar os épicos, e, a partir dos mesmos, criar as US.
 
 ## ÉPICOS
 
