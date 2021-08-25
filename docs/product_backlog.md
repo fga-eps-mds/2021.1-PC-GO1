@@ -4,6 +4,7 @@
 
 |   Data   | Versão |       Descrição       |                 Autor(es)                  |
 | :------: | :----: | :-------------------: | :----------------------------------------: |
+| 23/08/21 |  0.2   | Concluímos as US's    | [Gabriel Marcolino]((https://github.com/GabrielMR360)) </br> [Lorenzo Santos]((https://github.com/lorenzo7377)) </br> [Carlos Eduardo]((https://github.com/CaduRoriz)) |
 | 24/08/21 |  0.3   | Alterando metodologia | [Joao Rossi]((https://github.com/bielrossi15)) |
 
 ## Introdução
