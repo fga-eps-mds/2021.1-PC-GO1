@@ -39,3 +39,8 @@ nav:
     - Início: documentation.md
   - Artefatos pré sprints:
     - Reuniões: reuniao.md
+  - Sprints:
+    - Sprint1:
+      - Planning: sprints/sprint1/planning.md
+      - Review: sprints/sprint1/review.md
+      - Restrospective: sprints/sprint1/retrospective.md
