@@ -7,6 +7,7 @@
 | João Gabriel Rossi	| bielrossiborba@gmail.com	| [bielrossi15](https://github.com/bielrossi15) | EPS|17/0013693|
 | João Matheus	| joaomatheus.152013@gmail.com	| [rjoao](https://github.com/rjoao) | EPS |17/0013812|
 | Paulo Vítor Coelho	| paulovitorrocha.unb@gmail.com	| [PauloVitorRocha](https://github.com/PauloVitorRocha) | EPS |17/0062465|
+| Carlos Eduardo	| ceduardo.roriz@gmail.com	| [CaduRoriz](https://github.com/CaduRoriz) | MDS |19/0011424|
 
 ### Conheça nossa documentação
 * [SysArq Docs](https://fga-eps-mds.github.io/2021.1-PC-GO1/)
