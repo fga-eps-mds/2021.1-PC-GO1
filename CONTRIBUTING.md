@@ -31,9 +31,9 @@ Hotfix branches são criadas a partir da **main** e servem para resolver de form
 
 ## Política de commits 
 
-Os commits devem descrever de forma simples e sucinta as modificações feitas. E devem ser escritas em inglês. Exemplo:
+Os commits devem descrever de forma simples e sucinta as modificações feitas. E devem ser escritas em português. Exemplo:
 
-`git commit -m”Create new model”`
+`git commit -m ”Cria nova model”`
 
 ## Commits em pares
 

@@ -1,3 +1,14 @@
+# Lean Inception
+
+Documento que resume o que foi tratado no workshop da Lean Inception da equipe
+
+## Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 21/08/21 | 0.9 | Adiciona o workshop Lean Inception da equipe | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 23/08/21 | 1.0 | Acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+
 ## Parte 1
 
 **O que foi abordado**: 
@@ -34,7 +45,6 @@
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
-|Filipe Pereira Fortes | :white_check_mark:| |
 |Lorenzo de Lima Alves dos Santos | :white_check_mark:| |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :white_check_mark: | |
@@ -78,7 +88,6 @@
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
-|Filipe Pereira Fortes | :white_check_mark:| |
 |Lorenzo de Lima Alves dos Santos | :white_check_mark:| |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :white_check_mark: |  |
@@ -120,7 +129,6 @@
 |João Matheus de Sousa Rodrigues | :x: | Avisou que teve problemas em casa durante a reunião |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
-|Filipe Pereira Fortes | :white_check_mark:| |
 |Lorenzo de Lima Alves dos Santos | :white_check_mark:| |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :x: | Nenhuma |

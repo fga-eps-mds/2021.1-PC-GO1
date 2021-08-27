@@ -1,6 +1,17 @@
 # Reuniões
 
-Pasta com o resumo das reuniões antes de começar as Sprints
+Documento com o resumo das reuniões antes de começar as Sprints
+
+## Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 21/08/21 | 0.1 | Criação do formato das reuniões | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 21/08/21 | 0.2 | Adiciona até a 9ª reunião | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 22/08/21 | 0.3 | Adiciona a 10ª reunião | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 23/08/21 | 0.4 | Adiciona a 11ª e a 12ª reunião e acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+
+
 
 ## 0 - Apresentações
 
@@ -376,7 +387,6 @@ O encontro foi definido por 2 partes:
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :white_check_mark: | |
-|Filipe Pereira Fortes | :white_check_mark: |  |
 |Lorenzo de Lima Alves dos Santos | :white_check_mark:| |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz |:white_check_mark: | |
@@ -408,13 +418,104 @@ O encontro foi definido por 2 partes:
 |João Matheus de Sousa Rodrigues | :white_check_mark: | |
 |Paulo Vítor Coelho da Rocha | :white_check_mark: | |
 |Ivan Diniz Dobbin | :x: | Era horário de aula |
-|Filipe Pereira Fortes | :white_check_mark:|  |
 |Lorenzo de Lima Alves dos Santos | :x:| Era horário de aula |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :x: | Era horário de aula |
 
+## 10 - Cliente 4
+
+**O que foi abordado**: 
+
+- Realizamos uma reunião com o cliente e o professor, no qual foi descartado a ideia de aproveitar o banco de dados do SIGED. 
+- Tiramos algumas dúvidas em relação ao projeto
+    - Somente o administrador pode editar os arquivos registrados?
+        - Não, membros do arquivo também podem alterar, porém membros externos não podem.
+    - Necessidade de página de fácil acesso aos arquivos encaminhados.
+        - Essa página não é necessária, porém o cliente pediu uma página para cadastrar e alterar a temporalidade dos documentos.
 
 
 
+**Dificuldades**: Nenhuma
+
+**Data** : 20/08/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  |  |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :x: | Nenhuma |
+
+
+## 11 - Início da criação das histórias de usuário
+
+**O que foi abordado**: 
+
+- Foi iniciado a criação das histórias de usuário. 
+- Os membros de EPS iniciaram a criação para guiar os membros de MDS.
+- Após a criação de algumas histórias por EPS como guia, MDS tomou o controle e começaram a criar as histórias com apenas algumas dicas por parte de EPS.
+- Foi concordado que até terça-feira(24/08/2021) as histórias de usuário estariam prontas.
+
+
+**Dificuldades**: Nenhuma
+
+**Data** : 22/08/2021 de 11:00 até às 13:20
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  |  |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :x: | Nenhuma |
+
+
+## 12 - Discussão com o professor
+
+**O que foi abordado**: 
+
+- Foi validado com o professor a Lean Inception, que mostrou alguns pontos que necessitam correção. 
+- Foi discutido a questão da presença do membro 
+Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
+- O membro Carlos pareceu disposto a mudar e a equipe discutiu como pode melhorar a comunicação.
+  - Carlos disse não acessar muito o telegram, assim foi criado um grupo no whatsapp também no qual será mandado as datas das reuniões. 
+
+
+**Dificuldades**: Carlos chegou atrasado para a reunião. Ele avisou perto da hora que tinha reunião de outra matéria.
+
+**Data** : 23/08/2021 de 12:00 até às 13:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  |  |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :white_check_mark: | |
 
 

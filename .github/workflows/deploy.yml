@@ -1,0 +1,24 @@
+name: Deploy da Documentação
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      
+      - name: Instalar mkdocs-material
+        run: pip install mkdocs-material
+
+      - name: Realizando deploy
+        run: mkdocs gh-deploy --force

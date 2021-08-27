@@ -40,4 +40,9 @@ nav:
   - Artefatos pré sprints:
     - Reuniões: reuniao.md
     - Lean Inception: leanInception.md
-    - Product Backlog: product_backlog.md
+    - Product Backlog Building: productBacklogBuilding.md
+  - Conhecimento e tabela de horário da equipe:
+    - Informações: informacaoMembros.md
+  - Sprints:
+    - Product Backlog: product_backlog.md 
+  
