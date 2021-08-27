@@ -4,6 +4,7 @@
 
 |   Data   | Versão |       Descrição       |                 Autor(es)                  |
 | :------: | :----: | :-------------------: | :----------------------------------------: |
+| 22/08/21 |  0.1   | Inicia a criação das US's    | [Gabriel Marcolino]((https://github.com/GabrielMR360)) </br> [Lorenzo Santos]((https://github.com/lorenzo7377)) </br>[João Matheus](https://github.com/J-Matheus) </br> [Joao Rossi]((https://github.com/bielrossi15)) </br> [Ivan Diniz Dobbin](https://github.com/darmsDD) </br>[Paulo Vitor](https://github.com/PauloVitorRocha)|
 | 23/08/21 |  0.2   | Concluímos as US's    | [Gabriel Marcolino]((https://github.com/GabrielMR360)) </br> [Lorenzo Santos]((https://github.com/lorenzo7377)) </br> [Carlos Eduardo]((https://github.com/CaduRoriz)) |
 | 24/08/21 |  0.3   | Alterando metodologia | [Joao Rossi]((https://github.com/bielrossi15)) |
 
