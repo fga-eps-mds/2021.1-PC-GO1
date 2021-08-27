@@ -42,5 +42,7 @@ nav:
     - Lean Inception: leanInception.md
     - Product Backlog Building: productBacklogBuilding.md
   - Conhecimento e tabela de horário da equipe:
-    - Informações: informacaoMembros.md 
+    - Informações: informacaoMembros.md
+  - Sprints:
+    - Product Backlog: product_backlog.md 
   
