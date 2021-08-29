@@ -5,20 +5,31 @@
 |:----:|:------:|:---------:|:--------:|
 | 25/08/21 | 0.1 | Adiciona Sprint Backlog,histórico de revisão e pápeis da equipe | [Ivan Diniz Dobbin](https://github.com/darmsDD), [João Rossi](https://github.com/bielrossi15) |
 | 29/08/21 | 0.2 | Atualiza Sprint Backlog | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 29/08/21 | 0.3 | Adiciona modelo da tabela de pareamentos| [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
 Issues | Pontuação | Concluído
 ------------ | -------------- | :--------:
-[Subir artefatos do drive no github-pages](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/14) | 1 | :white_check_mark:
-[Criar Protótipo de baixa fidelidade](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/15) | 2 | :white_check_mark:
-[Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Profile](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/17) | 5 | :white_check_mark:
+[Subir artefatos do drive no github-pages](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/14) | 1 | :white_check_mark: 
+[Criar Protótipo de baixa fidelidade](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/15) | 2 | :white_check_mark: 
+[Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Profile](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/17) | 5 | :white_check_mark: 
 [Ambiente de Desenvolvimento de Documentação](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/21) | 5  |:white_check_mark:
-[Criar backlog do produto](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/23) | 2 | :white_check_mark:
-[Refatorar CANVAS MVP](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/24) | 1 | :white_check_mark:
-[Subir Ambiente de desenvolvimento do repositório Archives](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/16) | 3  |:white_check_mark:
+[Criar backlog do produto](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/23) | 2 | :white_check_mark: 
+[Refatorar CANVAS MVP](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/24) | 1 | :white_check_mark: 
 [Adequar os repositórios do projeto aos padrões de Software Livre](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/25) | 5 | :white_check_mark:
-[Configurar ambiente de desenvolvimento para 2021.1-PC-GO1-Archives](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 5 | :white_check_mark: com 1 dia de atraso
+[Configurar ambiente de desenvolvimento para 2021.1-PC-GO1-Archives](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 5 | :white_check_mark: com 1 dia de atraso 
+
+
+## Pareamentos
+Sendo a primeira issue de código de MDS, foi decidido que alguns membros de EPS deveriam parear com eles.
+
+| Pareamento | Membros
+|:--------: | :-------:
+| 1 | membro 1 membro 2
+| 2 | membro 1 membro 2
+| 3 | membro 1 membro 2
+
 
 
 ## Pápeis nessa sprint
