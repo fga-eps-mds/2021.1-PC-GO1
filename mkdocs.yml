@@ -37,15 +37,14 @@ markdown_extensions:
 nav:
   - Documentação:
     - Início: documentation.md
-    - Protótipos: prototypes.md
+    - Protótipos: prototipos/prototypes.md
   - Artefatos pré sprints:
-    - Reuniões: reuniao.md
-    - Lean Inception: leanInception.md
-    - Product Backlog Building: productBacklogBuilding.mdLN;/ 
-  - Conhecimento e tabela de horário da equipe:
-    - Informações: informacaoMembros.md
+    - Lean Inception: artefatos_pre_sprints/leanInception.md
+    - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
+    - Informações dos Membros: artefatos_pre_sprints/informacaoMembros.md
+  - Reuniões: reuniao.md
   - Sprints:
-    - Product Backlog: product_backlog.md
+    - Product Backlog: sprints/product_backlog.md
     - Sprint1:
       - Planning: sprints/sprint1/planning.md
       - Review: sprints/sprint1/review.md
