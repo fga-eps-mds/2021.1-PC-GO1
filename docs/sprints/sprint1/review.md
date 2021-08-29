@@ -4,6 +4,7 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 25/08/21 | 0.1 | Adiciona histórico de revisão, análise do Scrum Master e começa a preencher os riscos e o conhecimento dos membros  | [Ivan Diniz Dobbin](https://github.com/darmsDD), [João Rossi](https://github.com/bielrossi15) |
+| 29/08/21 | 0.2 | Adiciona os gráficos do velocity e burndown| [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 ## Quando
 Essa sprint se iniciou no dia 20/08/2021 e durou 7 dias terminando dia 27/08/2021 
@@ -17,16 +18,17 @@ as tarefas sendo concluidas.**Explicar com o velocity e burndow** A equipe de EP
 - Presença do membro Carlos nas atividades.
 
 ## Burndown
+[![](burndown.png)](burndown.png)
 
 ## Velocity
+[![](velocity.png)](velocity.png)
 
 ## Conhecimento dos Membros
-
-![](../../legendaConhecimentos.png) 
+[![](../../legendaConhecimentos.png)](../../legendaConhecimentos.png)
 
 
 ### Antes
-![](quadroConhecimentos.png)
+[![](quadroConhecimentos.png)](quadroConhecimentos.png)
 
 
 ### Depois
