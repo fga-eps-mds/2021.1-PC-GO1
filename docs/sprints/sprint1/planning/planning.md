@@ -22,13 +22,13 @@ Issues | Pontuação | Concluído
 
 
 ## Pareamentos
-Sendo a primeira issue de código de MDS, foi decidido que alguns membros de EPS deveriam parear com eles.
 
 | Pareamento | Membros
 |:--------: | :-------:
-| 1 | membro 1 membro 2
-| 2 | membro 1 membro 2
-| 3 | membro 1 membro 2
+| 1 | Carlos Lorenzo Gabriel
+
+
+Observe que tivemos "pareamento" de 3 pessoas. Como o grupo tem apenas 3 membros de MDS,    estamos pensando em alternativas de trabalho, como trabalho em trio ou pareamento com algum membro de EPS.
 
 
 

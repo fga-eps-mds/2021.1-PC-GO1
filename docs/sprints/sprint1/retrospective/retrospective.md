@@ -4,7 +4,7 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 25/08/21 | 0.7 | Adiciona a retrospetiva parcial da Sprint | [Ivan Diniz Dobbin](https://github.com/darmsDD), [João Rossi](https://github.com/bielrossi15) |
-| 29/08/21 | 0.8 | Adiciona a retrospetiva parcial da Sprint | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 29/08/21 | 0.8 | Adiciona os gráficos e perguntas | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 ## Análise do Scrum Master
 
@@ -25,3 +25,6 @@ Os riscos dessa sprint eram em relação ao membro Carlos, porém foi discutido 
 
 ## Humor
 [![](graficoHumor.png)](graficoHumor.png)
+
+
+

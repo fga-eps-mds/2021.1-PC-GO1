@@ -39,14 +39,7 @@ Observe também pelo gráfico do [Cycle Time](#cycle-time) que houve confusão a
 [![](controlChart.png)](controlChart.png)
 
 ## Conhecimento dos Membros
-[![](../../legendaConhecimentos.png)](../../legendaConhecimentos.png)
-
-
-### Antes
-[![](quadroConhecimentos.png)](quadroConhecimentos.png)
-
-
-### Depois
+[![](graficoMelhoria.png)](graficoMelhoria.png)
 
 
 
