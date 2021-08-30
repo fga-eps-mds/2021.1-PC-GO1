@@ -39,6 +39,7 @@ nav:
     - Início: documentation.md
     - Protótipos: prototypes.md
     - Identidade Visual: visual_id.md
+    - Product Backlog: product_backlog.md
   - Artefatos pré sprints:
     - Reuniões: reuniao.md
     - Lean Inception: leanInception.md
@@ -46,5 +47,8 @@ nav:
   - Conhecimento e tabela de horário da equipe:
     - Informações: informacaoMembros.md
   - Sprints:
-    - Product Backlog: product_backlog.md 
+    - Sprint 1: sprint_1.md
+  - Políticas do repositório: 
+    - Como contribuir: contributing.md
+    - Código de conduta: code_of_conduct.md
   
