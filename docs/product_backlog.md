@@ -7,6 +7,7 @@
 | 22/08/21 |  0.1   | Inicia a criação das US's    | [Gabriel Marcolino]((https://github.com/GabrielMR360)) </br> [Lorenzo Santos]((https://github.com/lorenzo7377)) </br>[João Matheus](https://github.com/J-Matheus) </br> [Joao Rossi]((https://github.com/bielrossi15)) </br> [Ivan Diniz Dobbin](https://github.com/darmsDD) </br>[Paulo Vitor](https://github.com/PauloVitorRocha)|
 | 23/08/21 |  0.2   | Concluímos as US's    | [Gabriel Marcolino]((https://github.com/GabrielMR360)) </br> [Lorenzo Santos]((https://github.com/lorenzo7377)) </br> [Carlos Eduardo]((https://github.com/CaduRoriz)) |
 | 24/08/21 |  0.3   | Alterando metodologia | [Joao Rossi]((https://github.com/bielrossi15)) |
+| 24/08/21 |  0.4   | Alterando US1 e US2| [Joao Rossi]((https://github.com/bielrossi15)) |
 
 ## Introdução
 O atual documento tem por objetivo apresentar os épicos, as histórias de usuário (US) e o product backlog da plataforma SysArq. O backlog é composto por US's que são resolvidas em um período de tempo (sprint) e que pertencem a um contexto maior, no caso os épicos.
@@ -61,26 +62,26 @@ Criar ferramenta que permita a impressão de etiquetas.
 
 
 ### US01 
-#### Criar formulário de cadastro de documentos
+#### Criar cadastro de documento
 
-| US01 | Criar formulário de cadastro de documentos|
+| US01 | Criar cadastro de documento|
 | ---: | :------- |
 | **Épico** | [Cadastro de Documentos](#ep01) |
-| **Descrição** |Eu, **como** usuário, **desejo** informar os metadados do documento **para que eu possa** posteriormente arquivá-los. |
+| **Descrição** |Eu, **como** usuário, **desejo** poder registrar os metadados do documentos em um formulário **para que eu possa** salvar os documentos no banco de dados. |
 | **Priorização** | 8 |
-| **Pontos** | -- |
-| **Critérios de aceitação** | - Garantir que todos os metadados tenham campos no formulário. </br> - Implementar formulários diferentes para diferentes tipos de documentos. </br> - Validar os campos do formulário.|
+| **Pontos** | 13 |
+| **Critérios de aceitação** | - Validar os campos dos metadados inseridos nos formulários. </br> - Garantir que os metadados foram salvos no banco. |
 
 ### US02 
-#### Salvar no banco de dados o formulário preenchido
+#### Criar cadastro de campo
 
-| US02 | Salvar no banco de dados o formulário preenchido|
+| US02 | Criar cadastro de campo|
 | ---: | :------- |
 | **Épico** | [Cadastro de Documentos](#ep01) |
-| **Descrição** |Eu, **como** usuário, **desejo** que os metadados preenchidos no formulário de cadastro de documentos sejam armazenados **para que eu possa** finalizar o cadastro do documento. |
+| **Descrição** |Eu, **como** usuário, **desejo** cadastrar campos **para que eu possa** realizar o pré-cadastro do documento. |
 | **Priorização** | 8 |
-| **Pontos** | -- |
-| **Critérios de aceitação** | - Validar se os metadados chegaram corretamente ao banco de dados. </br> - Garantir que os metadados do documento sejam persistidos corretamente.  |
+| **Pontos** | 13 |
+| **Critérios de aceitação** | - Validar os campos dos metadados inseridos nos formulários. </br> - Garantir que os campos foram salvos no banco.  |
 
 ### US03
 #### Implementar o campo de pesquisa de documentos
@@ -146,7 +147,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Descrição** |Eu, **como** usuário, **desejo** possuir uma aba para edição de metadados **para que eu possa** acessar a edição dos metadados do documento. |
 | **Priorização** | 6 |
 | **Pontos** | -- |
-| **Critérios de aceitação** | - Redirecionar o usuário para a aba onde sera possivel recadastrar os metadados do documento. |
+| **Critérios de aceitação** | - Abrir o documento na nova página. |
 
 ### US09
 ####  Substituir os novos dados no documento
@@ -190,7 +191,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Descrição** |Eu, **como** usuário, **desejo** acessar os sistama web do arquivo geral **para que eu possa** registrar ou visualizar metadados de documentos. |
 | **Priorização** | 7 |
 | **Pontos** | -- |
-| **Critérios de aceitação** | - Validar a autenticação do usuário. </br> Redirecionar o usuário a parte interna do sistema. |
+| **Critérios de aceitação** | - Validar a autenticação do usuário. </br> - Autenticar e redirecionar o usuário. |
 
 ### US13
 ####  Cadastrar os usuários no banco de dados
