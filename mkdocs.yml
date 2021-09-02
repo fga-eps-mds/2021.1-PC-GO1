@@ -41,13 +41,17 @@ nav:
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
   - Artefatos pré sprints:
-    - Reuniões: reuniao.md
-    - Lean Inception: leanInception.md
-    - Product Backlog Building: productBacklogBuilding.md
-  - Conhecimento e tabela de horário da equipe:
-    - Informações: informacaoMembros.md
+    - Lean Inception: artefatos_pre_sprints/leanInception.md
+    - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
+    - Informações dos Membros: artefatos_pre_sprints/informacaoMembros.md
+  - Reuniões: reuniao.md
   - Sprints:
-    - Sprint 1: sprint_1.md
+    - Sprint1:
+      - Planning: sprints/sprint1/planning/planning.md
+      - Review: sprints/sprint1/review/review.md
+      - Restrospective: sprints/sprint1/retrospective/retrospective.md 
+    - Sprint2:
+      - Planning: sprints/sprint2/planning/planning.md
   - Políticas do repositório: 
     - Como contribuir: contributing.md
     - Código de conduta: code_of_conduct.md

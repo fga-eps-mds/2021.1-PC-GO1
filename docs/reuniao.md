@@ -10,6 +10,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 21/08/21 | 0.2 | Adiciona até a 9ª reunião | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 22/08/21 | 0.3 | Adiciona a 10ª reunião | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 23/08/21 | 0.4 | Adiciona a 11ª e a 12ª reunião e acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 29/08/21 | 0.5 | Adiciona a 13ª reunião e atualiza a 12ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 
@@ -491,7 +492,7 @@ O encontro foi definido por 2 partes:
 
 **O que foi abordado**: 
 
-- Foi validado com o professor a Lean Inception, que mostrou alguns pontos que necessitam correção. 
+- Foi validado com o professor a Lean Inception, que mostrou alguns pontos que necessitam correção, como as métricas e resultados que deveriam ser alteradas para 1 pessoa ou no máximo 2 usando o produto. 
 - Foi discutido a questão da presença do membro 
 Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 - O membro Carlos pareceu disposto a mudar e a equipe discutiu como pode melhorar a comunicação.
@@ -518,4 +519,30 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :white_check_mark: | |
 
+## 13 - Cliente 5
+
+**O que foi abordado**: 
+
+- Foi validado com o cliente o protótipo de baixa fidelidade e a alteração das métricas e resultados no Canvas MVP que foi realizada a pedido do professor em [12 - Discussão com o professor](#12-discussao-com-o-professor).
+- Foi explicado melhor a funcionalidade de criar campos e esta será adicionada no backlog, PBB e possivelmente na Lean Inception.
+
+**Dificuldades**: Nenhuma
+
+**Data** : 27/08/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  |  |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :x: | Avisou no dia seguinte que teve um imprevisto |
 

@@ -3,7 +3,7 @@
 ## Visão do Protótipo de Baixa Fidelidade
  
 
-[![Prototipo baixa fidelidade](./prototipos/prototipo_baixa_fidelidade.png)](./prototipos/prototipo_baixa_fidelidade.png)
+[![Prototipo baixa fidelidade](prototipo_baixa_fidelidade.png)](prototipo_baixa_fidelidade.png)
 
 **Fluxo básico:**  
 
