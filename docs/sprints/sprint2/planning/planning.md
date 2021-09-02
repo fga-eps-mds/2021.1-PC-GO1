@@ -18,8 +18,8 @@ Issues | Pontuação | Concluído
 [Criar versão inicial do Documento de Arquitetura do Projeto](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/23) | 0 |  
 [Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Frontend](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 0 | 
 [US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 | 
-[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 5 | 
-[Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Frontend](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 |  
+[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 | 
+ 
 
 
 ## Pareamentos
@@ -27,8 +27,10 @@ Issues | Pontuação | Concluído
 | Pareamento | Membros
 |:--------: | :-------:
 | 1 | Carlos Lorenzo Gabriel
+| 2 | MDS e João Gabriel
+| 3 | MDS e João Matheus
 
-Foi decido manter o "pareamento" de 3 membros no começo do projeto, posteriomente quando os membros de MDS tiverem maior facilidade com as linguagens tentaremos outras altenativas.
+Foi decido manter o "pareamento" de 3 membros no começo do projeto, posteriomente quando os membros de MDS tiverem maior facilidade com as linguagens tentaremos outras altenativas. Para facilitar a iniciação um membro de EPS se uniu com os de MDS.
 
 
 
