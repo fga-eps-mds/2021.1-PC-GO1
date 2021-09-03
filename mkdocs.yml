@@ -40,6 +40,7 @@ nav:
     - Protótipos: prototypes.md
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
+    - Documento de arquitetura: doc_arquitetura.md
   - Artefatos pré sprints:
     - Reuniões: reuniao.md
     - Lean Inception: leanInception.md
