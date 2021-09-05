@@ -66,4 +66,4 @@ Documento que resume o que foi tratado nas reuniões de realização do Product 
 
 
 ## Resultado Final
-[ ![](PBB_Canvas.png) ](PBB_Canvas.png)
+[ ![](./imagens/PBB_Canvas.png) ](./imagens/PBB_Canvas.png)
