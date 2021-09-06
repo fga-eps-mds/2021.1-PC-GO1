@@ -143,4 +143,4 @@ Foi decidido que que 1 pessoa iria validar o produto.
 
 ## Resultado Final
 
-[ ![](Lean_Inception.png) ](Lean_Inception.png)
+[ ![](./imagens/Lean_Inception.png) ](./imagens/Lean_Inception.png)

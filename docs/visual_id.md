@@ -4,7 +4,7 @@
 
 #### Cores principais
 
-![Paleta de cores](color_pallete.jpeg)
+![Paleta de cores](./imagens/color_pallete.jpeg)
 
 <div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
 
