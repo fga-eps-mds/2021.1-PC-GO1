@@ -29,9 +29,13 @@ Issues | Pontuação | Concluído
 
 | Pareamento | Membros
 |:--------: | :-------:
-| 1 | Membro 1 Membro 2
-| 2 | Membro 2 Membro 3
-| 3 | Sozinho
+| 1 | Ivan e João Gabriel
+| 2 | Paulo vitor e João Matheus
+| 3 | Gabriel e Lorenzo
+| 4 | Carlos
+
+Decidimos tentar uma divisão dos membros de MDS, com 2 trabalhando juntos e 1 sozinho. Os membros de EPS
+também irão parear para algumas tarefas para misturar os papéis.
 
 
 ## Pápeis nessa sprint
