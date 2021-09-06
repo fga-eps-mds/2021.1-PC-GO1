@@ -20,8 +20,8 @@ Issues | Pontuação | Concluído
 [Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Frontend](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 0 |:white_check_mark: 
 [US representadas incorretamente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/62)| 0 | :white_check_mark: 
 [Atualizar histórias de usuário](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/31) | 0 | :white_check_mark:  
-[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 |:x: 
-[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 |:x:
+[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) | 13 |:x: 
+[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65) | 13 |:x:
 
  
 

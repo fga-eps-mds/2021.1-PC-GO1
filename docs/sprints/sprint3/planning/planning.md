@@ -19,8 +19,8 @@ Issues | Pontuação | Concluído
 [Criar protótipo de alta fidelidade](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/67) | 0 |
 [Planilhas e Gráficos, Custo, Risco e Qualidade](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/71) | 0 |
 [Melhorar organização da wiki](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/74) | 0 |:white_check_mark:
-[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 | 
-[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 |
+[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) | 13 | 
+[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65) | 13 |
 
  
 

@@ -10,7 +10,7 @@ Essa sprint se iniciou no dia 27/08/2021 e durou 7 dias terminando dia 04/09/202
 
 ## Análise do Scrum Master
 
-Durante a sprint a maioria das issues foram concluídas porém as 2 issues sobre histórias de usuário não foram, [US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) e [US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16).A US2 teve um bom desenvolvimento no começo, porém ao chegar no front-end houve uma diminuição de ritmo. Os membros de MDS começaram uma dependência dos membros de EPS para realizar suas atividades, e isso gerou o atraso atual. Isso foi discutido com o time, e esperasse que esse atraso não ocorra novamente. A US1 não foi iniciada.
+Durante a sprint a maioria das issues foram concluídas, porém as issues, [US1](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) e [US2](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65), relativas as histórias de usuário não. O ritmo de desenvolvimento da US2 estava bom no começo, porém ao chegar no front-end esse ritmo diminuiu consideravelmente. Os membros de MDS começaram a ter mais dependência dos membros de EPS para realizar suas atividades e isso causou atrasos na codificação. O ocorrido foi discutido com o time e esperasse que esses atrasos não ocorram novamente. A US1 não foi iniciada.
 
 O gráfico de burndown mostra uma sprint com 0 pontos, havia apenas 2 issues com pontuação e nenhuma foi concluída.
 É visto porém que houve boa porcentagem de completude das issues, com 11 de 14 issues completas. Não é possível mostrar um gráfico de velocity ainda pois este é baseado em pontos e a equipe ainda não conclui nenhuma issue pontuada.
