@@ -37,7 +37,7 @@ markdown_extensions:
 nav:
   - Documentação:
     - Início: documentation.md
-    - Protótipos: /prototipos/prototypes.md
+    - Protótipos: prototipos/prototypes.md
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
