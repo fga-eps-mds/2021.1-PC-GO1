@@ -8,7 +8,8 @@ Documento que resume o que foi tratado no workshop da Lean Inception da equipe
 |:----:|:------:|:---------:|:--------:|
 | 21/08/21 | 0.9 | Adiciona o workshop Lean Inception da equipe | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 23/08/21 | 1.0 | Acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
-| 27/08/21 | 1.1 | Adiciona versão refatorada do canvas mvp | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 27/08/21 | 1.1 | Adiciona versão alterada do canvas mvp | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 06/09/21 | 1.2 | Adiciona referências |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 ## Parte 1
 
@@ -135,7 +136,7 @@ Documento que resume o que foi tratado no workshop da Lean Inception da equipe
 |Carlos Eduardo Miranda Roriz | :x: | Nenhuma |
 
 
-## Refatoração
+## Mudanças
 No dia 27/08/2021 ajustamos as métricas e resultados do canvas com o cliente,
 pois as métricas e resultados anteriores estavam baseadas em uma validação para o Arquivo todo.
 Foi decidido que que 1 pessoa iria validar o produto. 
@@ -144,3 +145,7 @@ Foi decidido que que 1 pessoa iria validar o produto.
 ## Resultado Final
 
 [ ![](./imagens/Lean_Inception.png) ](./imagens/Lean_Inception.png)
+
+
+## Referências
+Caroli, Paulo. Lean Inception: como alinhar Pessoas e construir o Produto Certo. 1 ª edição atualizada. São Paulo: Editora Caroli , 2018.

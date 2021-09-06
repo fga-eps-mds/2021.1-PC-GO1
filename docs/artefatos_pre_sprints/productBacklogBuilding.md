@@ -7,6 +7,7 @@ Documento que resume o que foi tratado nas reuniões de realização do Product 
 |:----:|:------:|:---------:|:--------:|
 | 22/08/21 | 0.9 | Adição do PBB | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 23/08/21 | 1.0 | Acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 06/09/21 | 1.1 | Acrescenta as referências e atualização do PBB | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 ## Parte 1
 
@@ -64,6 +65,11 @@ Documento que resume o que foi tratado nas reuniões de realização do Product 
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :x: | Nenhuma |
 
-
+## Mudanças
+Quando fomos realizar as histórias de usuário e após a reunião com o cliente, percebemos que não
+havia tarefas para uma criação de campos. Assim atualizamos o PBB.
 ## Resultado Final
 [ ![](./imagens/PBB_Canvas.png) ](./imagens/PBB_Canvas.png)
+
+## Referências
+Aguiar, Fábio; Caroli, Paulo. Product Backlog Building: Um guia prático para criação e refinamento de backlog pra produtos de sucesso. 1ª Edição. Rio de Janeiro: Editora Caroli, 2021.
