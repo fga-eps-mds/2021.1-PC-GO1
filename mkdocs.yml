@@ -41,6 +41,11 @@ nav:
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
+    - Metodologia:
+      - Templates:
+        - Planning: metodologia/templates/planning.md
+        - Review: metodologia/templates/review.md
+        - Retrospective: metodologia/templates/retrospective.md
   - Artefatos pré sprints:
     - Lean Inception: artefatos_pre_sprints/leanInception.md
     - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
