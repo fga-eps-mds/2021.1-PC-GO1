@@ -11,6 +11,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 22/08/21 | 0.3 | Adiciona a 10ª reunião | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 23/08/21 | 0.4 | Adiciona a 11ª e a 12ª reunião e acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 29/08/21 | 0.5 | Adiciona a 13ª reunião e atualiza a 12ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 07/09/21 | 0.6 | Adiciona a 14ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 
@@ -545,4 +546,34 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 |Lorenzo de Lima Alves dos Santos | :white_check_mark: |  |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :x: | Avisou no dia seguinte que teve um imprevisto |
+
+
+## 14 - Cliente 6
+
+**O que foi abordado**: 
+
+- Explicado para o cliente o andamento do projeto. O grupo havia iniciado a construção do backend e frontend.
+- Avisado que quando a documentação estivesse mais completa o link da wiki seria disponibilizado.
+- Na próxima reunião será mostrado o protótipo de alta fidelidade.
+- Apenas 1 membro participou da reunião pois foi passado apenas alguns avisos. 
+
+**Dificuldades**: 
+
+**Data** : 03/08/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :x: | Combinado participar apenas 1 pessoa |
+|João Matheus de Sousa Rodrigues | :x: | Combinado participar apenas 1 pessoa |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :x:  | Combinado participar apenas 1 pessoa |
+|Lorenzo de Lima Alves dos Santos | :x: | Combinado participar apenas 1 pessoa |
+|Gabriel Marcolino Rodrigues | :x: | Combinado participar apenas 1 pessoa |
+|Carlos Eduardo Miranda Roriz | :x: | Combinado participar apenas 1 pessoa|
 
