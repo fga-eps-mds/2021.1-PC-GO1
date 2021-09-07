@@ -555,7 +555,7 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 - Explicado para o cliente o andamento do projeto. O grupo havia iniciado a construção do backend e frontend.
 - Avisado que quando a documentação estivesse mais completa o link da wiki seria disponibilizado.
 - Na próxima reunião será mostrado o protótipo de alta fidelidade.
-- Apenas 1 membro participou da reunião pois era foi passado apenas alguns avisos. 
+- Apenas 1 membro participou da reunião pois foi passado apenas alguns avisos. 
 
 **Dificuldades**: 
 
