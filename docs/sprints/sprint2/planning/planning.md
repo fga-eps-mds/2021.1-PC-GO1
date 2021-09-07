@@ -5,6 +5,7 @@
 |:----:|:------:|:---------:|:--------:|
 | 30/08/21 | 1.0 | Adiciona o Planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 01/09/21 | 1.1 | Atualiza pontuações do planning| [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 06/09/21| 1.2 | Adiciona tarefas que apareceram durante a semana no sprint backlog e mostra o que foi o não concluído| [Ivan Diniz Dobbin](https://github.com/darmsDD)
 
 
 ## Sprint Backlog
@@ -14,11 +15,14 @@ Issues | Pontuação | Concluído
 [Criar o roadmap](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/17) | 0 | :white_check_mark: 
 [Treino de React](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/15) | 0 | :white_check_mark: 
 [Transformar todas as US em issues](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/21) | 0  |:white_check_mark:
-[Criar a documentação da sprint1 e iniciar da sprint 2](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/24) | 0 | 
-[Criar versão inicial do Documento de Arquitetura do Projeto](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/23) | 0 |  
-[Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Frontend](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 0 | 
-[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 | 
-[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 13 | 
+[Criar a documentação da sprint1 e iniciar da sprint 2](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/24) | 0 | :white_check_mark: 
+[Criar versão inicial do Documento de Arquitetura do Projeto](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/23) | 0 |  :white_check_mark: 
+[Configurar o ambiente de desenvolvimento para o repositório 2021.1-PC-GO1-Frontend](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/16) | 0 |:white_check_mark: 
+[US representadas incorretamente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/62)| 0 | :white_check_mark: 
+[Atualizar histórias de usuário](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/31) | 0 | :white_check_mark:  
+[US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) | 13 |:x: 
+[US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65) | 13 |:x:
+
  
 
 
