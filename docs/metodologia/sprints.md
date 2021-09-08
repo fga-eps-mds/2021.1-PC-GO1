@@ -2,11 +2,16 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 07/09/21 | 0.9 |  Adiciona a metodologia e processo das sprints do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 08/09/21 | 1.0 |  Adiciona o processo de trabalho das issues do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 
 ## Introdução
 Esse documento tem como objetivo apresentar os processos e metodologias do grupo.
 
+Existem alguns artefatos que contribuem para o melhor entendimento dos processos de trabalho do grupo.
+
+- [Agenda](agenda.md)
+- [Ferramentas](ferramentas.md)
 
 ## Metodologia
 A metodologia usada pelo grupo está baseado em uma mistura de métodos ágeis. Observe abaixo os elementos utilizados de cada metodologia:
@@ -44,11 +49,14 @@ Por experiência pessoal dos membros, foi decidido utilizar um formato de 3 reun
 
 ## Processos das sprints
 
-Observe no gráfico abaixo o fluxograma de trabalho que é utilizado durante uma sprint.
+Observe na imagem abaixo o fluxograma de trabalho que é utilizado durante uma sprint.
 [![](imagens/processoSprint.png)](imagens/processoSprint.png)
 
 
-## Processo das tarefas
+## Processo das issues
+
+Observe abaixo o fluxograma de trabalho que é realizado desde a criação até finalização de uma issue.
+[![](imagens/processoIssues.png)](imagens/processoIssues.png)
 
 
 

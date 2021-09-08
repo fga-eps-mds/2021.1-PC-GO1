@@ -3,9 +3,10 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 07/09/21 | 0.1 |  Adiciona os canais de comunicação e suas utilizações | [Ivan Diniz Dobbin](https://github.com/darmsDD) e [Joao Rossi]((https://github.com/bielrossi15))|
+| 08/09/21 | 1.0 |  Adiciona a ferramenta que será utilizada para construir desenhos,diagramas e etc | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
-## Ferramentas
+## Tabela de ferramentas
 
 | Ferramenta | Utilização |
 | :----------- | :------------------------------------------ |
@@ -17,7 +18,7 @@
 | Zenhub | - Ferramenta utilizada para aplicar a metodologia do kanban;<br> - Utilizada para a criação do roadmap;<br> - Utilizada para a geração de alguns gráficos como velocity e burndown.
 | Mural | - Ferramenta utilizada para a execução da Lean Inception;<br> - Utilizada também para execução do Product Backlog Building(PBB).
 | Drive | - Ferramenta utilizada anteriormente para salvar artefatos sobre as reuniões (documentação e gravações), porém agora é utilizada a wiki;<br> - Utilizada para salvar dados dos membros da equipe.
-| Ferramento para desenhos| 
+| Diagrams.net | - Ferramenta utilizada para a criação de fluxogramas;<br> - Posteriormente será usada para construir outros artefatos.
 
 
 

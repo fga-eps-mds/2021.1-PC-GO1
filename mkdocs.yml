@@ -42,7 +42,7 @@ nav:
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
     - Metodologia:
-      - Comunicação: metodologia/canais_comunicacao.md
+      - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
       - Sprints: metodologia/sprints.md
   - Artefatos pré sprints:
