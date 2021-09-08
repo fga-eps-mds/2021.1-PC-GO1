@@ -55,7 +55,7 @@ Utilizada em mensagens de erro e alertas em geral.
 
 <div style="background-color: #000000; height:30px; width:10px; border-radius: 50px; margin-right: 20px;" ></div>   
 
-<!-- <b>#000000</b> -->
+<b>#000000</b>
 
 </div>
 

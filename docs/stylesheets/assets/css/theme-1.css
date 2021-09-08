@@ -40,11 +40,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #17baef;
+  color: #5289B5;
 }
 
 a {
-  color: #17baef;
+  color: #5289B5;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -71,7 +71,7 @@ a:hover {
 }
 
 .btn:focus, a.btn:focus {
-  color: #fff;
+  color: #F6F6F6;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -80,7 +80,7 @@ a:hover {
 a.btn-cta-primary, .btn-cta-primary {
   background: #074f66;
   border: 1px solid #074f66;
-  color: #fff;
+  color: #F6F6F6;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -88,21 +88,21 @@ a.btn-cta-primary, .btn-cta-primary {
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
   background: #053c4e;
   border: 1px solid #053c4e;
-  color: #fff;
+  color: #F6F6F6;
 }
 
 a.btn-cta-secondary, .btn-cta-secondary {
-  background: #eebf3f;
-  border: 1px solid #eebf3f;
-  color: #fff;
+  background: #F6F6F6;
+  border: 1px solid #F6F6F6;
+  color: #1F3541;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
-  background: #ecb728;
-  border: 1px solid #ecb728;
-  color: #fff;
+  background: #074f66;
+  border: 1px solid #074f66;
+  color: #F6F6F6;
 }
 
 .text-highlight {
@@ -120,14 +120,14 @@ pre code {
 /* ======= Header ======= */
 .header {
   padding: 10px 0;
-  background: #17baef;
-  color: #fff;
+  background: #5289B5;
+  color: #F6F6F6;
   position: fixed;
   width: 100%;
 }
 
 .header.navbar-fixed-top {
-  background: #fff;
+  background: #F6F6F6;
   z-index: 9999;
   -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
@@ -135,7 +135,7 @@ pre code {
 }
 
 .header.navbar-fixed-top .logo a {
-  color: #17baef;
+  color: #5289B5;
 }
 
 .header .logo {
@@ -145,7 +145,7 @@ pre code {
 }
 
 .header .logo a {
-  color: #fff;
+  color: #F6F6F6;
 }
 
 .header .logo a:hover {
@@ -175,7 +175,7 @@ pre code {
 
 .header .main-nav .navbar-toggler .icon-bar {
   display: block;
-  background-color: #fff;
+  background-color: #F6F6F6;
   height: 2px;
   width: 22px;
   -webkit-border-radius: 1px;
@@ -193,7 +193,7 @@ pre code {
 }
 
 .header .main-nav .navbar-toggler:hover .icon-bar {
-  background-color: #fff;
+  background-color: #F6F6F6;
 }
 
 .header .main-nav .nav .nav-item {
@@ -203,7 +203,7 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link {
-  color: #09617e;
+  color: #1F3541;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -213,7 +213,7 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link.active {
-  color: #09617e;
+  color: #5289B5;
   background: none;
 }
 
@@ -238,19 +238,19 @@ pre code {
 
 /* ======= Promo Section ======= */
 .promo {
-  background: #17baef;
-  color: #fff;
+  background: #5289B5;
+  color: #F6F6F6;
   padding-top: 150px;
 }
 
 .promo .title {
   font-size: 98px;
-  color: #074f66;
+  color: #1F3541;
   margin-top: 0;
 }
 
 .promo .title .highlight {
-  color: #eebf3f;
+  color: #F6F6F6;
 }
 
 .promo .intro {
@@ -285,7 +285,7 @@ pre code {
 }
 
 .promo .social-media {
-  background: #0c86ae;
+  background: #1F3541;
   padding: 10px 0;
   margin: 0 auto;
 }
@@ -347,8 +347,8 @@ pre code {
 /* ======= Features Section ======= */
 .features {
   padding: 80px 0;
-  background: #17baef;
-  color: #fff;
+  background: #5289B5;
+  color: #F6F6F6;
 }
 
 .features .title {
@@ -372,7 +372,7 @@ pre code {
 
 .features .feature-list li .svg-inline--fa {
   margin-right: 5px;
-  color: #fff;
+  color: #F6F6F6;
 }
 
 /* ======= Contact Section ======= */
@@ -453,7 +453,7 @@ pre code {
 }
 
 .contact .author-message .speech-bubble a {
-  color: #fff;
+  color: #F6F6F6;
 }
 
 .contact .author-message .speech-bubble:after {
@@ -527,7 +527,7 @@ pre code {
 }
 
 .contact .social-icons a .svg-inline--fa {
-  color: #fff;
+  color: #F6F6F6;
   text-align: center;
   margin-top: 14px;
   font-size: 20px;
@@ -537,7 +537,7 @@ pre code {
 .footer {
   padding: 15px 0;
   background: #042a36;
-  color: #fff;
+  color: #F6F6F6;
 }
 
 .footer .copyright {
@@ -560,7 +560,7 @@ pre code {
     left: 0;
     top: 60px;
     position: absolute;
-    background: #fff;
+    background: #F6F6F6;
   }
   .header .main-nav .navbar-collapse .navbar-nav {
     margin-left: 10px;
