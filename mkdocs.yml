@@ -46,6 +46,9 @@ nav:
         - Planning: metodologia/templates/planning.md
         - Review: metodologia/templates/review.md
         - Retrospective: metodologia/templates/retrospective.md
+      - Risco:
+        - Planejamento: metodologia/gerenciamentoRiscos/risco.md
+       # - Planos de mitigação: metodologia/gerenciamentoRiscos/mitigação.md
   - Artefatos pré sprints:
     - Lean Inception: artefatos_pre_sprints/leanInception.md
     - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
