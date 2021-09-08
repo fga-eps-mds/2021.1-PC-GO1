@@ -44,6 +44,7 @@ nav:
     - Metodologia:
       - Comunicação: metodologia/canais_comunicacao.md
       - Agenda: metodologia/agenda.md
+      - Sprints: metodologia/sprints.md
   - Artefatos pré sprints:
     - Lean Inception: artefatos_pre_sprints/leanInception.md
     - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
