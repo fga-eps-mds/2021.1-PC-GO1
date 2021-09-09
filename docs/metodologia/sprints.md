@@ -45,7 +45,7 @@ A metodologia usada pelo grupo está baseado em uma mistura de métodos ágeis. 
 - Pequenas releases.
 
 ### Observação
-Por experiência pessoal dos membros, foi decidido utilizar um formato de 3 reuniões por semana, pois muitas vezes reuniões diárias eram improdutivas. Esse formato pode sobre alterações.
+Por experiência pessoal dos membros, foi decidido utilizar um formato de 3 reuniões por semana, pois muitas vezes reuniões diárias eram improdutivas. Esse formato pode sofrer alterações.
 
 ## Processos das sprints
 
