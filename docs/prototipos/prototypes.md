@@ -28,3 +28,12 @@
 - Usuário clica na célula do documento escolhido.  
 - Usuário clica no botão de editar documento.  
 - Usuário altera informações que deseja e salva as alterações.  
+
+## Visão do Protótipo de Alta Fidelidade
+ 
+
+[![Prototipo alta fidelidade](prototipo_de_alta_fidelidade.png)](prototipo_de_alta_fidelidade.png)
+
+[Prototipo alta fidelidade](https://www.figma.com/file/7gywhAH9dCXLf194dcXNn8/SysArq?node-id=0%3A1)
+[Fluxo do Prototipo de alta fidelidade](https://www.figma.com/proto/7gywhAH9dCXLf194dcXNn8/SysArq?node-id=14%3A7&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A7
+)
