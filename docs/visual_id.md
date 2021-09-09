@@ -2,9 +2,9 @@
 
 ## Cores:
 
-#### Cores principais
-
 ![Paleta de cores](./imagens/color_pallete.jpeg)
+
+#### Cores principais
 
 <div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
 
@@ -53,6 +53,7 @@ Utilizada em mensagens de erro e alertas em geral.
 
 <div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
 
+  
 <div style="background-color: #000000; height:30px; width:10px; border-radius: 50px; margin-right: 20px;" ></div>   
 
 <b>#000000</b>
@@ -60,6 +61,18 @@ Utilizada em mensagens de erro e alertas em geral.
 </div>
 
 Utilizada para as fontes.
+
+
+<div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
+
+  
+<div style="background-color: #808080; height:30px; width:10px; border-radius: 50px; margin-right: 20px;" ></div>   
+
+<b>#808080</b>
+
+</div>
+
+Utilizada para os textos em campos.
 
 
 ## Tipografia
