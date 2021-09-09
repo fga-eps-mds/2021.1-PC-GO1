@@ -26,7 +26,8 @@ O risco foi calculado com `impacto * probabilidade = nível de preocupação`. A
 
 [![](imagens/categoria.png)](imagens/categoria.png) 
 [![](imagens/impacto.png)](imagens/impacto.png) 
-[![](imagens/probabilidade.png)](imagens/probabilidade.png) 
+[![](imagens/probabilidade.png)](imagens/probabilidade.png)
+
 
 ## Soluções
 Será criado um documento que explicará o plano de mitigação para cada risco encontrado e se este plano 
