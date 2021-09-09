@@ -1,4 +1,4 @@
-# Informações sobre os membros
+<h1 style="text-align: center">Informações sobre os membros</h1>
 
 Documento com o conhecimento inicial e a tabela de horário disponível dos membros
 

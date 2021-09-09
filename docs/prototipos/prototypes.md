@@ -1,4 +1,5 @@
-# Protótipos de Baixa e Alta Fidelidade
+<h1 style="text-align: center">Protótipos de Baixa e Alta Fidelidade</h1>
+
 
 ## Visão do Protótipo de Baixa Fidelidade
  

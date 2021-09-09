@@ -1,4 +1,4 @@
-# Reuniões
+<h1 style="text-align: center">Reuniões</h1>
 
 Documento com o resumo das reuniões antes de começar as Sprints
 

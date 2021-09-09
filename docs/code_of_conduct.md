@@ -1,4 +1,5 @@
-## Código de Conduta - SysArq
+<h1 style="text-align: center">Código de Conduta - SysArq</h1>
+
 
 Esse projeto é composto por pessoas diversas, cada qual com diferentes características e pensamentos, trabalhando juntas em busca de um objetivo em comum.
 

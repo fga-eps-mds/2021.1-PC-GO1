@@ -1,4 +1,5 @@
-# Identidade Visual
+<h1 style="text-align: center">Identidade Visual</h1>
+
 
 ## Cores:
 

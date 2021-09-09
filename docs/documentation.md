@@ -1,4 +1,4 @@
-# Intro
+<h1 style="text-align: center">Intro</h1>
 
 **Wiki destinada ao trabalho realizado nas disciplinas de EPS e MDS da Universidade de Brasilia no primeiro semestre de 2021.**
 
