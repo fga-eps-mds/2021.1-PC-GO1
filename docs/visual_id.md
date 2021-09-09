@@ -69,7 +69,7 @@ Para os textos da aplicação será utilizada a fonte **Montserrat**.
 Os tamanhos dos textos devem seguir o padrão estabelecido:  
 **Titulo da página:** 24px  
 **Subtitulos:** 18px  
-**Textos em botões:** 16px  
+**Textos em botões:** 14px 
 **Outros textos:** 14px  
 
 ## Outros estilos definidos
