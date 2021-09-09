@@ -75,7 +75,7 @@ Os tamanhos dos textos devem seguir o padrão estabelecido:
 ## Outros estilos definidos
 
 Foi pré-estabelecido também o tamanho de algumas bordas que serão utilizadas na aplicação:  
-**Border radius em botões** 15px  
+**Border radius em botões** 4px  
 **Border radius em categorias** 15px  
 **Border radius em cards** 15px  
 **Border radius em tabela** 10px  
