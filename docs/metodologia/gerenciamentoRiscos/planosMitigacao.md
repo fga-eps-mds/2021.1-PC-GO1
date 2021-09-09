@@ -21,3 +21,14 @@ Outras disciplinas | Pessoal | 1 | Os membros devem informar com antecedência s
 
 O timeline serve pra entender em dias quantos dias o risco custou no desenvolvimento do projeto.
 [![](imagens/timeline.png)](imagens/timeline.png)  
+
+
+## Referências
+
+Risk Management in Software Engineering – Development Project Prepared For Every Threat. Asper Brothers, 27 de jan de 2020. Disponível em: <https://asperbrothers.com/blog/risk-management-in-software-development/>. Acesso em 08 de set. de 2021.
+
+Ray, Stephanie. The Risk Management Process in Project Management. ProjectManager, 27 de fev. de 2021. Disponível
+em : <https://www.projectmanager.com/blog/risk-management-process-steps>. Acesso em 09 de set. de 2021.
+
+Neri, Hilmer; Rocha, Carla. Gestão de Portfólios e Projetos de Software: Fases ou Grupos de Processo: Planejamento II. Disponível em: <https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/GPP_Material/06%20-%20Planejamento%20II/main.pdf>. Acesso em 09 de set. de 2021.
+
