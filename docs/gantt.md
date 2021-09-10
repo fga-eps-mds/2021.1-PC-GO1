@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
-| 09/09/21 | 1.0 | Criação do documento com o diagrama | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 09/09/21 | 1.0- | Criação do documento com o diagrama | [Ivan Diniz Dobbin](https://github.com/darmsDD) e [Paulo Vítor]((https://github.com/PauloVitorRocha)) |
 
 
 ## Introdução
