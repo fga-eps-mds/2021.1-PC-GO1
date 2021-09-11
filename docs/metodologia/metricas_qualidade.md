@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Métricas de Qualidade</h1>
+# Métricas de Qualidade
 
 ## Histórico de revisão
 
