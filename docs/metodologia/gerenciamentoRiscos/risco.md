@@ -7,7 +7,7 @@
 ## Introdução
 Esse documento tem como objetivo explicar como o grupo está calculando o risco do projeto.
 É importante lembrar que o gerenciamento de riscos é muito importante, pois o seu mal gerenciamento
-pode ser a causa de projetos falharem.
+pode se tornar a causa da falha do projeto.
 
 
 ## Identificação dos riscos
