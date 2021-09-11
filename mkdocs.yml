@@ -44,6 +44,7 @@ nav:
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
+    - Gráfico de Gantt: gantt.md
     - Metodologia:
       - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
