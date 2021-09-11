@@ -1,4 +1,4 @@
-# Lean Inception
+<h1 style="text-align: center">Lean Inception</h1>
 
 Documento que resume o que foi tratado no workshop da Lean Inception da equipe
 

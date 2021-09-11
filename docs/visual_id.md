@@ -1,10 +1,11 @@
-# Identidade Visual
+<h1 style="text-align: center">Identidade Visual</h1>
+
 
 ## Cores:
 
-#### Cores principais
-
 ![Paleta de cores](./imagens/color_pallete.jpeg)
+
+#### Cores principais
 
 <div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
 
@@ -53,13 +54,26 @@ Utilizada em mensagens de erro e alertas em geral.
 
 <div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
 
+  
 <div style="background-color: #000000; height:30px; width:10px; border-radius: 50px; margin-right: 20px;" ></div>   
 
-<!-- <b>#000000</b> -->
+<b>#000000</b>
 
 </div>
 
 Utilizada para as fontes.
+
+
+<div style= "display: flex; width: 100%; flex-direction: row; align-items: center; margin-bottom:10px;">
+
+  
+<div style="background-color: #808080; height:30px; width:10px; border-radius: 50px; margin-right: 20px;" ></div>   
+
+<b>#808080</b>
+
+</div>
+
+Utilizada para os textos em campos.
 
 
 ## Tipografia
@@ -69,13 +83,13 @@ Para os textos da aplicação será utilizada a fonte **Montserrat**.
 Os tamanhos dos textos devem seguir o padrão estabelecido:  
 **Titulo da página:** 24px  
 **Subtitulos:** 18px  
-**Textos em botões:** 16px  
+**Textos em botões:** 14px 
 **Outros textos:** 14px  
 
 ## Outros estilos definidos
 
 Foi pré-estabelecido também o tamanho de algumas bordas que serão utilizadas na aplicação:  
-**Border radius em botões** 15px  
+**Border radius em botões** 4px  
 **Border radius em categorias** 15px  
 **Border radius em cards** 15px  
 **Border radius em tabela** 10px  

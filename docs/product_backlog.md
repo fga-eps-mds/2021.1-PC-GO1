@@ -1,4 +1,4 @@
-# BACKLOG DO PRODUTO
+<h1 style="text-align: center">Backlog do Produto</h1>
 
 ## Histórico de revisão
 

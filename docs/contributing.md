@@ -1,4 +1,4 @@
-## Como contribuir?
+<h1 style="text-align: center">Como Contribuir</h1>
 
 * Se você for um colaborador externo, dê um fork no projeto
 * Issues só poderão ser criadas com os templates especificados no repositório

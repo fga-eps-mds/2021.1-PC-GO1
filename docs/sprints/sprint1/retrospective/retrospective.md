@@ -1,4 +1,4 @@
-# Sprint Restrospective
+<h1 style="text-align: center">Sprint Restrospective</h1>
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|

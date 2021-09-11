@@ -1,4 +1,4 @@
-# Sprint Review
+<h1 style="text-align: center">Sprint Review</h1>
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|
