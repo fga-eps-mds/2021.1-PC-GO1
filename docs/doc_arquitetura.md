@@ -10,7 +10,8 @@
 |02/08/2021|0.1|Versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |09/09/2021|0.2|Adiciona diagrama de relações|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |09/09/2021|0.3|Adiciona diagrama de classes versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
-|10/09/2021|0.4|Alterando diagrama de classes|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
+|10/09/2021|0.4|Altera diagrama de classes|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
+|11/09/2021|1.0|Adiciona diagrama Entidade Relacionamento e Diagrama Lógico de Dados|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 
 
 ## **1. Introdução**
@@ -99,8 +100,10 @@ O Django REST framework , organiza o projeto em diretórios em que cada um cont�
 ## **5. Visão de Implementação**
 
 ### **5.1 Diagrama Entidade Relacionamento**
+[![DER_SysArq.png](./imagens/DER_SysArq.png)](./imagens/DER_SysArq.png)
 
 ### **5.2 Diagrama Lógico de Dados**
+[![DLD_SysArq.png](./imagens/DLD_SysArq.png)](./imagens/DLD_SysArq.png)
 
 
 ## **6. Tamanho e Desempenho**
