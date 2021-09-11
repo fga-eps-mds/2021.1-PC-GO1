@@ -7,7 +7,11 @@
 
 |Data|Versão|Descrição|Autor|
 | - | - | - | - |
-|02/08/2021|0.1|Versão inicial|Paulo V.|
+|02/08/2021|0.1|Versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|09/09/2021|0.2|Adiciona diagrama de relações|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|09/09/2021|0.3|Adiciona diagrama de classes versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
+|10/09/2021|0.4|Altera diagrama de classes|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
+|11/09/2021|1.0|Adiciona diagrama Entidade Relacionamento e Diagrama Lógico de Dados|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 
 
 ## **1. Introdução**
@@ -31,16 +35,8 @@ Este documento contém os detalhes sobre as características arquiteturais escol
 A arquitetura utilizada no projeto será baseada em microsserviços. Microsserviço é uma abordagem para desenvolver uma única aplicação como um conjunto de serviços, cada um rodando em seu próprio processo e se comunicando através de mecanismos leves, geralmente através de uma API HTTP. Estes serviços são publicados em produção de maneira independente através de processos de deploys automatizados.
 
 ### **2.1 Diagrama de Relações**
-TODO
+[![Diag_relacoes_SysArq.png](./imagens/Diag_relacoes_SysArq.png)](./imagens/Diag_relacoes_SysArq.png)
 
-### **2.2 Diagrama de React/Microsserviços**
-TODO
-
-### **2.3 Diagrama de Pacotes Front-End**
-TODO
-
-### **2.4 Diagrama de Pacotes Back-End (Django Rest Framework)**
-TODO
 
 ## **3. Metas e Restrições de Arquitetura**
 
@@ -65,11 +61,13 @@ Estabelece a conexão entre a Model e o Template. Ela recebe as requisições do
 
 #### **4.1.3 Template**
 É a camada de apresentação. Nela é onde se decide como alguma informação do banco de dados deve ser apresentada para o usuário.
+![rest-api-architecture](./imagens/rest-api-architecture.png)
 
 
 ### **4.2 Django REST Framework**
 O Django REST framework , organiza o projeto em diretórios em que cada um contém uma funcionalidade independente do restante da aplicação como sugere a imagem a seguir:
 
+![rest-api-architecture](./imagens/django_pastas.png)
 
 - **apps**: cada aplicação tem uma pasta com as suas models, views, formulários, testes, templates e arquivos estáticos. Além disso, também há um arquivo URLs que será incluso no URLs global.
   - **migrations** : pasta com as migrações para o banco de dados.
@@ -97,10 +95,16 @@ O Django REST framework , organiza o projeto em diretórios em que cada um cont�
 - **requirements** : organiza todos os pacotes/componentes que a aplicação utiliza em arquivos.
 
 ### **4.3 Diagrama de classes**
-TODO
+[![class_diagram.png](./imagens/class_diagram.png)](./imagens/class_diagram.png)
 
 ## **5. Visão de Implementação**
-TODO
+
+### **5.1 Diagrama Entidade Relacionamento**
+[![DER_SysArq.png](./imagens/DER_SysArq.png)](./imagens/DER_SysArq.png)
+
+### **5.2 Diagrama Lógico de Dados**
+[![DLD_SysArq.png](./imagens/DLD_SysArq.png)](./imagens/DLD_SysArq.png)
+
 
 ## **6. Tamanho e Desempenho**
 O sistema é uma aplicação Web cujo os principais objetivos são o cadastro e a pesquisa de documentos tramitados pelo Arquivo Geral da PC-GO. É esperado que o software seja utilizado quase que exclusivamente por membros do Arquivo Geral o que nos permite pensar que para este microsserviço de pessoas não será necessário um banco de dados muito robusto, porém para o microsserviço de documentos espera-se um banco de dados bem mais robusto tendo em vista a grande quantidade de documentos que tramita pelo Arquivo Geral (cerca de 3000 arquivos mensais). O que implica que caso seja utilizado um serviço de Cloud Server, plataformas mais simples como Heroku poderão ser usadas durante o tempo de adesão da aplicação, porém quando em pleno funcionamento uma plataforma mais robusta como AWS (Amazon Web Services) será mais adequada para atender as demandas do Arquivo Geral.
