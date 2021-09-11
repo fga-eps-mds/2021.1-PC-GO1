@@ -10,6 +10,7 @@
 |02/08/2021|0.1|Versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |09/09/2021|0.2|Adiciona diagrama de relações|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |09/09/2021|0.3|Adiciona diagrama de classes versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
+|10/09/2021|0.4|Alterando diagrama de classes|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
 
 
 ## **1. Introdução**
@@ -93,7 +94,7 @@ O Django REST framework , organiza o projeto em diretórios em que cada um cont�
 - **requirements** : organiza todos os pacotes/componentes que a aplicação utiliza em arquivos.
 
 ### **4.3 Diagrama de classes**
-[![Diag_classes.png](./imagens/Diag_classes.png)](./imagens/Diag_classes.png)
+[![class_diagram.png](./imagens/class_diagram.png)](./imagens/class_diagram.png)
 
 ## **5. Visão de Implementação**
 
