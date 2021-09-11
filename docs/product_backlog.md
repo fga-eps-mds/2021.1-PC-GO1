@@ -9,6 +9,7 @@
 | 24/08/21 |  0.3   | Alterando metodologia | [Joao Rossi]((https://github.com/bielrossi15)) |
 | 24/08/21 |  0.4   | Alterando US1 e US2| [Joao Rossi]((https://github.com/bielrossi15)) |
 | 31/08/21 |  0.5   | Corrigindo granularidade das US's| [Paulo Vítor]((https://github.com/PauloVitorRocha)) |
+| 31/08/21 |  0.6   | Adicionando link de Issues | [Joao Rossi]((https://github.com/bielrossi15)) |
 
 ## Introdução
 O atual documento tem por objetivo apresentar os épicos, as histórias de usuário (US) e o product backlog da plataforma SysArq. O backlog é composto por US's que são resolvidas em um período de tempo (sprint) e que pertencem a um contexto maior, no caso os épicos.
@@ -65,7 +66,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US01 
 #### Criar cadastro de documento
 
-| US01 | Criar cadastro de documento|
+| US01 | [Criar cadastro de documento](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39)|
 | ---: | :------- |
 | **Épico** | [Cadastro de Documentos](#ep01) |
 | **Descrição** |Eu, **como** usuário, **desejo** poder registrar os metadados do documentos em um formulário **para que eu possa** salvar os documentos no banco de dados. |
@@ -76,7 +77,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US02 
 #### Criar cadastro de campo
 
-| US02 | Criar cadastro de campo|
+| US02 | [Criar cadastro de campo](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65)|
 | ---: | :------- |
 | **Épico** | [Cadastro de Documentos](#ep01) |
 | **Descrição** |Eu, **como** usuário, **desejo** cadastrar campos **para que eu possa** realizar o pré-cadastro do documento. |
@@ -85,9 +86,9 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Critérios de aceitação** | - Validar os campos dos metadados inseridos nos formulários. </br> - Garantir que os campos foram salvos no banco.  |
 
 ### US03
-#### Realizar pesquisa de documentos
+#### Pesquisar documentos
 
-| US03 | Realizar pesquisa de documentos |
+| US03 | [Pesquisar documentos](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/49) |
 | ---: | :------- |
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** realizar a pesquisa por documentos **para que eu possa** saber quais documentos se encaixam a minha necessidade. |
@@ -98,7 +99,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US04
 #### Filtrar a pesquisa de documentos a partir dos dados registrados 
 
-| US04 | Filtrar a pesquisa de documentos a partir dos dados registrados. |
+| US04 | [Filtrar a pesquisa de documentos a partir dos dados registrados.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/51) |
 | ---: | :------- |
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** filtrar os resultados de uma pesquisa a partir de um metadado **para que eu possa** encontrar um documento mais rápido. |
@@ -109,7 +110,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US05
 ####  Ordenar os dados listados
 
-| US05 | Ordenar os dados listados. |
+| US05 | [Ordenar os dados listados.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/52) |
 | ---: | :------- |
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** receber a listagem dos documentos de forma ordenada **para que eu possa** procurar por um documento específico de forma simplificada. |
@@ -120,7 +121,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US06
 ####  Visualizar detalhes de um documento
 
-| US06 | Visualizar detalhes de um documento. |
+| US06 | [Visualizar detalhes de um documento.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/53) |
 | ---: | :------- |
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** visualizar os dados de um documento específico **para que eu possa** avalia-los. |
@@ -131,7 +132,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US07
 ####  Editar metadados do documento
 
-| US07 | Editar metadados do documento. |
+| US07 | [Editar metadados do documento.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/54) |
 | ---: | :------- |
 | **Épico** | [Edição dos metadados de documentos](#ep04) |
 | **Descrição** |Eu, **como** usuário, **desejo** realizar a edição de metadados **para que eu possa** corrigir possíveis erros que venham a acontecer. |
@@ -142,7 +143,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US08
 ####  Implementar os campos de login e senha do usuário
 
-| US08 | Implementar os campos de login e senha do usuário. |
+| US08 | [Implementar os campos de login e senha do usuário.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/57) |
 | ---: | :------- |
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** preencher os campos de login e senha **para que eu possa** acessar o sistema web. |
@@ -153,7 +154,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US09
 ####  Logar o usuário no sistema
 
-| US09 | Logar o usuário no sistema. |
+| US09 | [Logar o usuário no sistema.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/58) |
 | ---: | :------- |
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** acessar os sistama web do arquivo geral **para que eu possa** registrar ou visualizar metadados de documentos. |
@@ -164,7 +165,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 ### US10
 ####  Cadastrar os usuários no banco de dados
 
-| US10 | Cadastrar os usuários no banco de dados. |
+| US10 | [Cadastrar os usuários no banco de dados.](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/59) |
 | ---: | :------- |
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** que o meu login e senha estejam cadastrados no banco de dados **para que eu possa** ter acesso constante ao sistema de arquivos. |
