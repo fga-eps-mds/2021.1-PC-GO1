@@ -34,7 +34,7 @@ Será criado um documento que explicará o plano de mitigação para cada risco 
 foi frutífero.
 
 ## Exemplo
-Visando facilitar esse cálculo e geração de gráfico utilizamos o `Planilhas` do google no qual foi possível ter a geração automática do gráfico. Observe abaixo um exemplo do `Planilhas`.
+Visando facilitar esse cálculo do risco e a geração de gráfico utilizamos o `Planilhas` do google no qual foi possível gerar automaticamente o gráfico. Observe abaixo um exemplo.
 
 [![](imagens/tabela.png)](imagens/tabela.png) 
 
