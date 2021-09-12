@@ -46,7 +46,7 @@ O valor planejado leva em consideração a porcentagem de completude das funcion
 ### Exemplo com a equipe
 Se o planejamento é concluir 22,2% das funcionalidades até a 3ª sprint e um custo total estimado de R$100.000 temos:
 
-`Valor Planejado = 0,222 * R$100.000 = 22200`
+`Valor Planejado = 0,222 * R$100.000 = R$22.200`
 
 
 ## Valor agregado
