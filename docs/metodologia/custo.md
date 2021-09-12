@@ -57,7 +57,7 @@ O objetivo dessa métrica é entender o quanto a equipe avançou com o projeto e
 ### Exemplo com a equipe
 Atualmente foi finalizado 5% das funcionalidades planejadas e com um custo total estimado de  R$100.000, temos:
 
-`Valor Agregado = 0,05 * R$100.000 = 5000 `
+`Valor Agregado = 0,05 * R$100.000 = R$5.000 `
 
 ## SPI: Schedule Perfomance Index (Índice de Desempenho de Prazo)
 O índice de desempenho de prazo serve para entender o quanto do planejado foi entregue. Desta maneira a equipe consegue 
