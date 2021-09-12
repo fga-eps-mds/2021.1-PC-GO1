@@ -107,6 +107,10 @@ Como nem sempre o custo planejado é igual ao custo real, é necessário utiliza
     - Mesmo objetivo da SPI
     - `CPI = Valor Agregado/Custo Real`
 
+## Valor Agregado x Valor Planejado
+Esse gráfico tem como objetivo facilitar a visualização da diferença entre o valor planejado e o valor agregado da equipe.
+
+[![](imagens/valorPlanejado_valorAgregado.png)](imagens/valorPlanejado_valorAgregado.png)
 
 
 ## Referências 
