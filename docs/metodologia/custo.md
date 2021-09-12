@@ -90,7 +90,7 @@ A partir do seu resultado é possível saber que:
 ### Exemplo com a equipe
 Utilizando os valores calculados anteriormente, temos:
 
-`SPV = 5000 - 22200 = -17200`
+`SPV = 5000 - 22200 = -R$17.200`
 
 O resultado mostra que a equipe está "devendo" R$17.200.
 
