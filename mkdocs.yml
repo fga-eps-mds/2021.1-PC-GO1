@@ -46,6 +46,15 @@ nav:
     - Documento de arquitetura: doc_arquitetura.md
     - Gráfico de Gantt: gantt.md
     - Metodologia:
+      - Templates:
+        - Planning: metodologia/templates/planning.md
+        - Review: metodologia/templates/review.md
+        - Retrospective: metodologia/templates/retrospective.md
+      - Risco:
+        - Planejamento: metodologia/gerenciamentoRiscos/risco.md
+        - Planos de mitigação: metodologia/gerenciamentoRiscos/planosMitigacao.md
+      - Metricas de Qualidade: metodologia/metricas_qualidade.md
+      - Custo: metodologia/custo.md
       - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
       - Sprints: metodologia/sprints.md
