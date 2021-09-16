@@ -12,7 +12,7 @@ Este documento apresenta o Pipeline de Integração utilizado nos repositórios 
 
 ## Fluxo do Repositório
 
-O fluxo do repositório é muito importante para o gerenciamento do trabalho de uma equipe. Esse fluxo permite o desenvolvimento concurrente de funcionalidades e o isolamento de ambientes.
+O fluxo do repositório é muito importante para o gerenciamento do trabalho de uma equipe. Esse fluxo permite o desenvolvimento concorrente de funcionalidades e o isolamento de ambientes.
 
 ### Escolha
 
