@@ -58,7 +58,7 @@ nav:
       - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
       - Sprints: metodologia/sprints.md
-  - Artefatos pré sprints:
+  - Artefatos Pré-Sprints:
     - Lean Inception: artefatos_pre_sprints/leanInception.md
     - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
     - Informações dos Membros: artefatos_pre_sprints/informacaoMembros.md
@@ -74,7 +74,6 @@ nav:
       - Restrospective: sprints/sprint2/retrospective/retrospective.md
     - Sprint3:
       - Planning: sprints/sprint3/planning/planning.md
-  - Políticas do repositório: 
+  - Políticas do Repositório: 
     - Como contribuir: contributing.md
     - Código de conduta: code_of_conduct.md
-  
