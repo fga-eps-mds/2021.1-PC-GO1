@@ -38,12 +38,13 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Documentação:
+  - Artefatos:
     - Início: documentation.md
     - Protótipos: prototipos/prototypes.md
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
+    - Pipeline de Integração: pipeline.md
     - Gráfico de Gantt: gantt.md
     - Metodologia:
       - Templates:
