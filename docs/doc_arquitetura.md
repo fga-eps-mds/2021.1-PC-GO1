@@ -12,6 +12,8 @@
 |09/09/2021|0.3|Adiciona diagrama de classes versão inicial|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
 |10/09/2021|0.4|Altera diagrama de classes|[Paulo Vitor](https://github.com/PauloVitorRocha) e [João Matheus](https://github.com/J-Matheus)|
 |11/09/2021|1.0|Adiciona diagrama Entidade Relacionamento e Diagrama Lógico de Dados|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|16/09/2021|1.1|Corrigindo Diagrama de Classes, DE-R e DLD|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|16/09/2021|1.2|Adicionando DE-R e DLD de profile|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 
 
 ## **1. Introdução**
@@ -35,17 +37,17 @@ Este documento contém os detalhes sobre as características arquiteturais escol
 A arquitetura utilizada no projeto será baseada em microsserviços. Microsserviço é uma abordagem para desenvolver uma única aplicação como um conjunto de serviços, cada um rodando em seu próprio processo e se comunicando através de mecanismos leves, geralmente através de uma API HTTP. Estes serviços são publicados em produção de maneira independente através de processos de deploys automatizados.
 
 ### **2.1 Diagrama de Relações**
-[![Diag_relacoes_SysArq.png](./imagens/Diag_relacoes_SysArq.png)](./imagens/Diag_relacoes_SysArq.png)
+[![relation_diagram.png](./imagens/relation_diagram.png)](./imagens/relation_diagram.png)
 
 
 ## **3. Metas e Restrições de Arquitetura**
 
 |**Restrição**|**Ferramenta**|
 | :- | :- |
-|Linguagem|Python|
-|Framework|Django REST|
+|Linguagem|Python e JavaScript|
+|Framework|Django REST e React|
 |Plataforma|Web|
-|Segurança|O sistema permitirá acesso à documentos possivelmente sigilosos por isso os cadastros dos usuários serão realizados manualmente|
+|Segurança|O sistema permitirá acesso à documentos possivelmente sigilosos por isso os cadastros dos usuários serão realizados manualmente e os usuários serão autenticados via token em cada requisição|
 |Idioma|Português|
 
 ## **4. Visão Lógica**
@@ -95,15 +97,21 @@ O Django REST framework , organiza o projeto em diretórios em que cada um cont�
 - **requirements** : organiza todos os pacotes/componentes que a aplicação utiliza em arquivos.
 
 ### **4.3 Diagrama de classes**
-[![class_diagram.png](./imagens/class_diagram.png)](./imagens/class_diagram.png)
+[![class_diagram_v2.png](./imagens/class_diagram_v2.png)](./imagens/class_diagram_v2.png)
 
 ## **5. Visão de Implementação**
 
 ### **5.1 Diagrama Entidade Relacionamento**
-[![DER_SysArq.png](./imagens/DER_SysArq.png)](./imagens/DER_SysArq.png)
+#### 5.1.1 Microsserviço de Arquivos
+[![DER_SysArq_v2.png](./imagens/DER_SysArq_v2.png)](./imagens/DER_SysArq_v2.png)
+#### 5.1.2 Microsserviço de Profile
+[![DER_Profile.png](./imagens/DER_Profile.png)](./imagens/DER_Profile.png)
 
 ### **5.2 Diagrama Lógico de Dados**
-[![DLD_SysArq.png](./imagens/DLD_SysArq.png)](./imagens/DLD_SysArq.png)
+#### 5.2.1 Microsserviço de Arquivos
+[![DLD_SysArq_v2.png](./imagens/DLD_SysArq_v2.png)](./imagens/DLD_SysArq_v2.png)
+#### 5.2.2 Microsserviço de Profile
+[![DLD_Profile.png](./imagens/DLD_Profile.png)](./imagens/DLD_Profile.png)
 
 
 ## **6. Tamanho e Desempenho**
@@ -117,7 +125,3 @@ A arquitetura de microsserviços permite definir algumas metas de qualidade, com
 
 ## **8. Referências**
 Documento de Arquitetura de Software. FUNPAR. Disponível em: <<https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_software_architecture_document_C367485C.html>>.
-
-
-
-
