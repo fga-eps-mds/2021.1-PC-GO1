@@ -24,6 +24,7 @@ Issues | Pontuação | Concluído
 [US1: Implementar o cadastro de documento](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) | 13 |:x: 
 [US2: Cadastro de Campos](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/65) | 13 | :x:
 
+Total de pontos = 0
 
  
 
