@@ -12,6 +12,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 23/08/21 | 0.4 | Adiciona a 11ª e a 12ª reunião e acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 29/08/21 | 0.5 | Adiciona a 13ª reunião e atualiza a 12ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 07/09/21 | 0.6 | Adiciona a 14ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 18/09/21 | 0.7 | Adiciona a 15ª reunião |[Joao Rossi](https://github.com/bielrossi15)|
 
 
 
@@ -559,7 +560,7 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 
 **Dificuldades**: 
 
-**Data** : 03/08/2021 de 16:00 até às 17:00
+**Data** : 03/09/2021 de 16:00 até às 17:00
 
 **Dúvidas da reunião**: Nenhuma
 
@@ -577,3 +578,30 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 |Gabriel Marcolino Rodrigues | :x: | Combinado participar apenas 1 pessoa |
 |Carlos Eduardo Miranda Roriz | :x: | Combinado participar apenas 1 pessoa|
 
+
+## 15 - Cliente 7
+
+**O que foi abordado**: 
+
+- Apresentado o protótipo de alta fidelidade para o cliente.  
+- Mudanças que o cliente esperava no protótipo (Apagar documento e listar usuários).
+
+**Dificuldades**: 
+
+**Data** : 10/09/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  | |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :white_check_mark: | |
