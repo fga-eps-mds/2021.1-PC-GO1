@@ -17,13 +17,12 @@ A equipe após acompanhar o desenvolvimento das histórias de usuário decidiu q
 
 Observe que ainda não foram concluídos pontos pelo [burndown](#burndown), portanto o velocity ainda não existe. A equipe tem concluído com um bom fluxo suas issues, iniciando e terminando-as ao longo da sprint. O resultado dessa atitude é representado no [cumulativeFlow](#cumulative-flow), no qual pode-se observar um desenvolvimento gradual.
 
-Nos gráficos de ciclos foi encontrado apenas uma anormalidade, a [US1](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) que
-teve uma variação muito maior que o esperado, sendo iniciada no último dia de sprint. As outras issues tiveram variações em sua movimentação ao longo do kanban, algumas issues demoram mais para serem concluídas, porém essa variação está dentro do esperado.
+Nos gráficos de ciclos foi encontrado apenas uma anormalidade. Observe a setinha no canto superior direito em [Ciclo de uma issue sair de sprint backlog até in progress](#ciclo-de-uma-issue-sair-de-sprint-backlog-ate-in-progress) que a [US1](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) teve uma variação muito maior que o esperado, sendo iniciada no último dia de sprint. As outras issues tiveram variações em sua movimentação ao longo do kanban, algumas issues demoram mais para serem concluídas, porém essa variação está dentro do esperado.
 
 A equipe alterou o gráfico de conhecimentos durante essa sprint. Foi discutido que para mostrar um melhor desenvolvimento da equipe de EPS era necessário adicionar os papéis Scrum Master, Devops, Product Owner e Arquiteto no quadro de conhecimentos. 
 
 
-É importante mostrar no [gráfico de riscos](#riscos) que surgiu um problema de comunicação nessa sprint. Os membros de MDS relataram em diversos momentos que houve falha de comunicação entre eles, um não sabia o que o outro estava fazendo. A equipe de EPS instruiu que os membros de MDS deveriam ser claros ao dizer qual atividade estavam realizando para evitar problemas maiores no futuro.
+É importante mostrar no [gráfico de riscos](#grafico-riscos) que surgiu um problema de comunicação nessa sprint. Os membros de MDS relataram em diversos momentos que houve falha de comunicação entre eles, um não sabia o que o outro estava fazendo. A equipe de EPS instruiu que os membros de MDS deveriam ser claros ao dizer qual atividade estavam realizando para evitar problemas maiores no futuro.
 
 ## Riscos
 
