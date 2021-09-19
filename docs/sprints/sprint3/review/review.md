@@ -15,7 +15,7 @@ Espera-se que a dependência de MDS com EPS diminua ao longo das sprints.
 
 A equipe após acompanhar o desenvolvimento das histórias de usuário decidiu que o membros de EPS deveriam também codificar mesmo sem a presença de membros de MDS. Então na sprint 4 pelo menos 1 história de usuário deve se tornar de total ou quase total responsabilidade da equipe de EPS.
 
-Observe que ainda não foram concluídos pontos pelo [burndown](#burndown), assim o velocity ainda não existe. A equipe tem concluído com um bom fluxo suas issues, iniciando e terminando-as ao longo da sprint. O resultado dessa atitude é representado no [cumulativeFlow](#cumulative-flow), no qual é possível observar um desenvolvimento gradual.
+Observe que ainda não foram concluídos pontos pelo [burndown](#burndown), portanto o velocity ainda não existe. A equipe tem concluído com um bom fluxo suas issues, iniciando e terminando-as ao longo da sprint. O resultado dessa atitude é representado no [cumulativeFlow](#cumulative-flow), no qual pode-se observar um desenvolvimento gradual.
 
 Nos gráficos de ciclos foi encontrado apenas uma anormalidade, a [US1](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) que
 teve uma variação muito maior que o esperado, sendo iniciada no último dia de sprint. As outras issues tiveram variações em sua movimentação ao longo do kanban, algumas issues demoram mais para serem concluídas, porém essa variação está dentro do esperado.
