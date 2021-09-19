@@ -20,7 +20,7 @@ Observe que ainda não foram concluídos pontos pelo [burndown](#burndown), assi
 Nos gráficos de ciclos foi encontrado apenas uma anormalidade, a [US1](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/39) que
 teve uma variação muito maior que o esperado, sendo iniciada no último dia de sprint. As outras issues tiveram variações em sua movimentação ao longo do kanban, algumas issues demoram mais para serem concluídas, porém essa variação está dentro do esperado.
 
-A equipe alterou o gráfico de conhecimentos durante essa sprint. Foi discutido que para mostrar um melhor desenvolvimento da equipe de EPS era necessário adicionar os papéis Scrum Master,Devops, Product Owner e Devops no quadro de conhecimentos. 
+A equipe alterou o gráfico de conhecimentos durante essa sprint. Foi discutido que para mostrar um melhor desenvolvimento da equipe de EPS era necessário adicionar os papéis Scrum Master, Devops, Product Owner e Arquiteto no quadro de conhecimentos. 
 
 
 É importante mostrar no [gráfico de riscos](#grafico-riscos) que surgiu um problema de comunicação nessa sprint. Os membros de MDS relataram em diversos momentos que houve falha de comunicação entre eles, um não sabia o que o outro estava fazendo. A equipe de EPS instruiu que os membros de MDS deveriam ser claros ao dizer qual atividade estavam realizando para evitar problemas maiores no futuro.
