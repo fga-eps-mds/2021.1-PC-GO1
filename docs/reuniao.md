@@ -12,6 +12,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 23/08/21 | 0.4 | Adiciona a 11ª e a 12ª reunião e acrescenta o histórico de revisão | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 29/08/21 | 0.5 | Adiciona a 13ª reunião e atualiza a 12ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 07/09/21 | 0.6 | Adiciona a 14ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 18/09/21 | 0.7 | Adiciona a 15ª reunião |[Joao Rossi](https://github.com/bielrossi15)|
 
 
 
