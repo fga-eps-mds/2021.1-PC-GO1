@@ -10,7 +10,7 @@ Essa sprint se iniciou no dia 05/09/2021 e durou 7 dias terminando dia 12/09/202
 
 ## Análise do Scrum Master
 
-É possível perceber pelas issues que foram completadas que a equipe de EPS está conseguindo realizar suas issues, porém a equipe de MDS não está. Visto este problema a equipe de EPS decidiu separar um tempo maior para parear com a equipe de MDS.  Os resultados dessa atitude devem ser revelados na próxima sprint.
+É possível perceber pelas issues que foram completadas que a equipe de EPS está conseguindo realizar suas issues, porém a equipe de MDS não está. Tendo em vista esta situação a equipe de EPS decidiu separar um tempo maior para parear com a equipe de MDS.  Os resultados dessa atitude devem ser revelados na próxima sprint.
 Espera-se que a dependência de MDS com EPS diminua ao longo das sprints. 
 
 A equipe após acompanhar o desenvolvimento das histórias de usuário decidiu que o membros de EPS deveriam também codificar mesmo sem a presença de membros de MDS. Então na sprint 4 pelo menos 1 história de usuário deve se tornar de total ou quase total responsabilidade da equipe de EPS.
