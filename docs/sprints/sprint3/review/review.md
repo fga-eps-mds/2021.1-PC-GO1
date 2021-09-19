@@ -23,7 +23,7 @@ teve uma variação muito maior que o esperado, sendo iniciada no último dia de
 A equipe alterou o gráfico de conhecimentos durante essa sprint. Foi discutido que para mostrar um melhor desenvolvimento da equipe de EPS era necessário adicionar os papéis Scrum Master, Devops, Product Owner e Arquiteto no quadro de conhecimentos. 
 
 
-É importante mostrar no [gráfico de riscos](#grafico-riscos) que surgiu um problema de comunicação nessa sprint. Os membros de MDS relataram em diversos momentos que houve falha de comunicação entre eles, um não sabia o que o outro estava fazendo. A equipe de EPS instruiu que os membros de MDS deveriam ser claros ao dizer qual atividade estavam realizando para evitar problemas maiores no futuro.
+É importante mostrar no [gráfico de riscos](#riscos) que surgiu um problema de comunicação nessa sprint. Os membros de MDS relataram em diversos momentos que houve falha de comunicação entre eles, um não sabia o que o outro estava fazendo. A equipe de EPS instruiu que os membros de MDS deveriam ser claros ao dizer qual atividade estavam realizando para evitar problemas maiores no futuro.
 
 ## Riscos
 
