@@ -75,7 +75,10 @@ nav:
       - Restrospective: sprints/sprint2/retrospective/retrospective.md
     - Sprint3:
       - Planning: sprints/sprint3/planning/planning.md
+      - Review: sprints/sprint3/review/review.md
+      - Retrospective: sprints/sprint3/retrospective/retrospective.md
     - Sprint4:
+      - Planning: sprints/sprint4/planning/planning.md
       - Review: sprints/sprint4/review/review.md
       - Restrospective: sprints/sprint4/retrospective/retrospective.md
   - Políticas do Repositório: 
