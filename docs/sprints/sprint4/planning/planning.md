@@ -19,6 +19,7 @@ Issues | Pontuação | Concluído
 [Evoluir o documento de arquitetura](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/94) | 0| :white_check_mark:
 [US10: Cadastrar os usuários no banco de dados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/59) | 2 | :x:
 [US08: Implementar os campos de login e senha do usuário](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/57) | 5| :x:
+[US09: Logar o usuário no sistema](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/58) | 13 | :x:
 [US01: Criar cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/39) | 13 | :x:
 [US02: Criar cadastro de campo](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/65) | 13 | :white_check_mark:
 
