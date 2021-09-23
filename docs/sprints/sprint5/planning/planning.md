@@ -4,6 +4,7 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 20/09/21 | 0.9 | Adiciona planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 23/09/21 | 1.0 | Adiciona issues que faltaram | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 
@@ -13,9 +14,11 @@ Issues | Pontuação | Concluído
 [Iniciar Documentação da sprint 4 e finalizar da sprint 3](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/95) | 0 |  :white_check_mark:
 [Iniciar documentação sprint5 e terminar a da sprint4](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/104) | 0 | 
 [Refatorar Action de Release](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/105) | 0 | 
-[Ambientes de Homologação](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/92) | 0| 
+[Ambientes de Homologação](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/92) | 0|
+[Alterando o cadastro de campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/107) | 3 |
 [US10: Cadastrar os usuários no banco de dados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/59) | 2 | 
 [US08: Implementar os campos de login e senha do usuário](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/57) | 5| 
+[US03: Pesquisar Documentos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/49) |5 |
 [US01: Criar cadastro de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/39) | 13 | 
 [US09: Logar o usuário no sistema](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/58) | 13 | 
 
