@@ -68,11 +68,11 @@ nav:
     - Sprint1:
       - Planning: sprints/sprint1/planning/planning.md
       - Review: sprints/sprint1/review/review.md
-      - Restrospective: sprints/sprint1/retrospective/retrospective.md 
+      - Retrospective: sprints/sprint1/retrospective/retrospective.md 
     - Sprint2:
       - Planning: sprints/sprint2/planning/planning.md
       - Review: sprints/sprint2/review/review.md
-      - Restrospective: sprints/sprint2/retrospective/retrospective.md
+      - Retrospective: sprints/sprint2/retrospective/retrospective.md
     - Sprint3:
       - Planning: sprints/sprint3/planning/planning.md
       - Review: sprints/sprint3/review/review.md
@@ -80,9 +80,13 @@ nav:
     - Sprint4:
       - Planning: sprints/sprint4/planning/planning.md
       - Review: sprints/sprint4/review/review.md
-      - Restrospective: sprints/sprint4/retrospective/retrospective.md
+      - Retrospective: sprints/sprint4/retrospective/retrospective.md
     - Sprint5:
       - Planning: sprints/sprint5/planning/planning.md
+      - Review: sprints/sprint5/review/review.md
+      - Retrospective: sprints/sprint5/retrospective/retrospective.md
+    - Sprint6:
+      - Planning: sprints/sprint6/planning/planning.md
   - Políticas do Repositório: 
     - Como contribuir: contributing.md
     - Código de conduta: code_of_conduct.md
