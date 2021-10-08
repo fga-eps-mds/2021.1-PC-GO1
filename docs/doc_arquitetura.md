@@ -14,6 +14,7 @@
 |11/09/2021|1.0|Adiciona diagrama Entidade Relacionamento e Diagrama Lógico de Dados|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |16/09/2021|1.1|Corrigindo Diagrama de Classes, DE-R e DLD|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |16/09/2021|1.2|Adicionando DE-R e DLD de profile|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|07/10/2021|2.0|Atualizando diagramas para refletir o backend|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 
 
 ## **1. Introdução**
@@ -62,12 +63,12 @@ A model é uma interface de apresentação do banco de dados  que permite o uso 
 Estabelece a conexão entre a Model e o Template. Ela recebe as requisições do usuário, acessa o banco de dados e retorna a informação solicitada.
 
 #### **4.1.3 Template**
-É a camada de apresentação. Nela é onde se decide como alguma informação do banco de dados deve ser apresentada para o usuário.
+É a camada de apresentação, nela é onde se decide como alguma informação do banco de dados deve ser apresentada para o usuário.
 ![rest-api-architecture](./imagens/rest-api-architecture.png)
 
 
 ### **4.2 Django REST Framework**
-O Django REST framework , organiza o projeto em diretórios em que cada um contém uma funcionalidade independente do restante da aplicação como sugere a imagem a seguir:
+O Django REST framework, organiza o projeto em diretórios em que cada um contém uma funcionalidade independente do restante da aplicação como sugere a imagem a seguir:
 
 ![rest-api-architecture](./imagens/django_pastas.png)
 
@@ -97,21 +98,21 @@ O Django REST framework , organiza o projeto em diretórios em que cada um cont�
 - **requirements** : organiza todos os pacotes/componentes que a aplicação utiliza em arquivos.
 
 ### **4.3 Diagrama de classes**
-[![class_diagram_v2.png](./imagens/class_diagram_v2.png)](./imagens/class_diagram_v2.png)
+[![class_diagram_v3.png](./imagens/class_diagram_v3.png)](./imagens/class_diagram_v3.png)
 
 ## **5. Visão de Implementação**
 
 ### **5.1 Diagrama Entidade Relacionamento**
 #### 5.1.1 Microsserviço de Arquivos
-[![DER_SysArq_v2.png](./imagens/DER_SysArq_v2.png)](./imagens/DER_SysArq_v2.png)
+[![DER_SysArq_v3.png](./imagens/DER_SysArq_v3.png)](./imagens/DER_SysArq_v3.png)
 #### 5.1.2 Microsserviço de Profile
-[![DER_Profile.png](./imagens/DER_Profile.png)](./imagens/DER_Profile.png)
+[![DER_Profile_v3.png](./imagens/DER_Profile_v3.png)](./imagens/DER_Profile_v3.png)
 
 ### **5.2 Diagrama Lógico de Dados**
 #### 5.2.1 Microsserviço de Arquivos
-[![DLD_SysArq_v2.png](./imagens/DLD_SysArq_v2.png)](./imagens/DLD_SysArq_v2.png)
+[![DLD_SysArq_v3.png](./imagens/DLD_SysArq_v3.png)](./imagens/DLD_SysArq_v3.png)
 #### 5.2.2 Microsserviço de Profile
-[![DLD_Profile.png](./imagens/DLD_Profile.png)](./imagens/DLD_Profile.png)
+[![DLD_Profile_v3.png](./imagens/DLD_Profile_v3.png)](./imagens/DLD_Profile_v3.png)
 
 
 ## **6. Tamanho e Desempenho**
