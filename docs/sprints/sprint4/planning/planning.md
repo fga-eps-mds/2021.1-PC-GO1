@@ -14,7 +14,6 @@ Issues | Pontuação | Concluído
 [Descrição do Pipeline de Integração](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/99) | 0 | :white_check_mark:
 [Cores](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/98)| 0 | :white_check_mark:
 [Iniciar Documentação da sprint 4 e finalizar da sprint 3](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/95) | 0 |  :x:
-[Ambientes de Homologação](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/92) | 0| :x:
 [Subir documentos da reuniao com o cliente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/93) | 0| :white_check_mark:
 [Evoluir o documento de arquitetura](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/94) | 0| :white_check_mark:
 [US10: Cadastrar os usuários no banco de dados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/59) | 2 | :x:
