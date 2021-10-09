@@ -27,7 +27,7 @@ Um motivo para isso estar ocorrendo pode ser por não estarem lembrando de preen
 
 ## Riscos
 
-[![](riscos.png)](graficoRiscos.png)
+[![](riscos.png)](riscos.png)
 
 ## Burndown
 [![](burndown.png)](burndown.png)

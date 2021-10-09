@@ -89,6 +89,8 @@ nav:
       - Planning: sprints/sprint6/planning/planning.md
       - Review: sprints/sprint6/review/review.md
       - Retrospective: sprints/sprint6/retrospective/retrospective.md
+    - Sprint7:
+      - Planning: sprints/sprint7/planning/planning.md
   - Políticas do Repositório: 
     - Como contribuir: contributing.md
     - Código de conduta: code_of_conduct.md
