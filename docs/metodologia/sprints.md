@@ -3,6 +3,7 @@
 |:----:|:------:|:---------:|:--------:|
 | 07/09/21 | 0.9 |  Adiciona a metodologia e processo das sprints do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 08/09/21 | 1.0 |  Adiciona o processo de trabalho das issues do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 09/10/21 | 1.1 | Atualiza o processo das issues | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 
 ## Introdução
