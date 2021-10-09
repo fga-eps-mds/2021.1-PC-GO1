@@ -23,12 +23,11 @@ Analisando os gráficos de [cumulativeFlow](#cumulative-flow) e os gráficos de 
 - Houve uma média de tempo de 3 dias para revisão das issues.
 - Demora na conclusão das issues, com a média sendo de 6.8 dias. Essa média é do tamanho da sprint praticamente que é de 7 dias.
 
-Ao observar o gráfico de melhorias é possível ver a melhora da equipe de EPS mais claramente agora que os papéis entraram no quadro de conhecimentos. É possível observar também pelo gráfico de riscos que alguns riscos diminuiram o seu nível, significando que o plano de mitigação está começando a demonstrar resultados.
 
 
 ## Riscos
 
-[![](riscos.png)](graficoRiscos.png)
+[![](riscos.png)](riscos.png)
 
 ## Burndown
 [![](burndown.png)](burndown.png)
@@ -53,10 +52,5 @@ Ao observar o gráfico de melhorias é possível ver a melhora da equipe de EPS 
 
 ### Ciclo de uma issue sair de review in progress até closed
 [![](reviewToClosed.png)](reviewToClosed.png)
-
-## Conhecimento dos Membros
-[![](graficoMelhoria.png)](graficoMelhoria.png)
-
-
 
 
