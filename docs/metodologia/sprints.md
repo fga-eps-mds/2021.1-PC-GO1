@@ -6,6 +6,7 @@
 | 09/10/21 | 1.1 | Adiciona versão 2 | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 
+
 ## Introdução
 Esse documento tem como objetivo apresentar os processos e metodologias do grupo.
 
