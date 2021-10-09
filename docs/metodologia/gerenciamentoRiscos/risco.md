@@ -2,12 +2,15 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 08/09/21 | 1.0 | Adiciona o documento sobre risco | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 09/10/21 | 1.1 | Adiciona o link da planilha | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 
 ## Introdução
 Esse documento tem como objetivo explicar como o grupo está calculando o risco do projeto.
 É importante lembrar que o gerenciamento de riscos é muito importante, pois o seu mal gerenciamento
 pode se tornar a causa da falha do projeto.
+
+Link para a planilha da equipe [Tabela de Riscos](https://docs.google.com/spreadsheets/d/1UzgET75mMU59QuEVfOCVYUn9lVbCXJPPDaiR_XkyPjA/edit?usp=sharing)
 
 
 ## Identificação dos riscos
