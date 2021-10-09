@@ -18,7 +18,7 @@ Issues | Pontuação | Concluído
 [Corrigir retorno da função search](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/118) | 0 | :white_check_mark:
 [Hotifx-Falta de memória no heroku](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/119) | 0 | :white_check_mark:
 [Erro quando a pesquisa retorna nenhum valor](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/120) | 0 | :white_check_mark:
-[Refatorar Action de Release](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/105) | 0 | :x:
+[Refatorar Action de Release](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/105) | 0 | :white_check_mark:
 [Ambientes de Homologação](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/92) | 0| :white_check_mark:
 [US03: Pesquisar Documentos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/49) | 5 | :white_check_mark:
 [US10: Cadastrar os usuários no banco de dados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/59) | 2 | :white_check_mark:
@@ -45,7 +45,7 @@ Issues | Pontuação | Concluído
 ### EPS
 Membro| Papel
 ------------ | --------------
-Scrum Master, PO, Devops e Arquiteto | [Ivan Dobbin](https://github.com/darmsDD) , [João Gabriel](https://github.com/bielrossi15) , [João Matheus](https://github.com/J-Matheus) e  [Paulo](https://github.com/PauloVitorRocha) 
+Scrum Master, PO, Devops, Arquiteto e Desenvolvedor | [Ivan Dobbin](https://github.com/darmsDD) , [João Gabriel](https://github.com/bielrossi15) , [João Matheus](https://github.com/J-Matheus) e  [Paulo](https://github.com/PauloVitorRocha) 
 
 #### Observação
 Nessa sprint os membros desempenharam vários papéis, por isso ocorreu a generalização de papéis acima.
