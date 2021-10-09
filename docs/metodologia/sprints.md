@@ -3,7 +3,8 @@
 |:----:|:------:|:---------:|:--------:|
 | 07/09/21 | 0.9 |  Adiciona a metodologia e processo das sprints do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 08/09/21 | 1.0 |  Adiciona o processo de trabalho das issues do grupo | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
-| 09/10/21 | 1.1 | Atualiza o processo das issues | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 09/10/21 | 1.1 | Adiciona versão 2 | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+
 
 
 ## Introdução
@@ -57,8 +58,15 @@ Observe na imagem abaixo o fluxograma de trabalho que é utilizado durante uma s
 ## Processo das issues
 
 Observe abaixo o fluxograma de trabalho que é realizado desde a criação até finalização de uma issue.
+
+### Versão 1
+
 [![](imagens/processoIssues.png)](imagens/processoIssues.png)
 
+### Versão 2
+Atualizado o processo após remover os campos closed e review accepted no kanban.
+
+[![](imagens/processoIssuesV2.png)](imagens/processoIssuesV2.png)
 
 
 
