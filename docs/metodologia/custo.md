@@ -5,6 +5,7 @@
 | 10/09/21 | 1.0 | Adiciona introdução, desenvolvimento e referências | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 11/09/21 | 2.0 | Remodela o formato do documento |[Ivan Diniz Dobbin](https://github.com/darmsDD)
 | 12/10/21 | 2.1 | Adiciona novos conceitos |[Ivan Diniz Dobbin](https://github.com/darmsDD)
+| 13/10/21 | 2.2 | Adiciona novos conceitos |[Ivan Diniz Dobbin](https://github.com/darmsDD)
 
 ## Introdução
 Este documento tem como objetivo apresentar a projeção de custos da equipe.
@@ -135,13 +136,27 @@ Como nem sempre o custo planejado é igual ao custo real, é necessário utiliza
 
 ## Total de Esforço Sprint
 
+- Representa a quantidade de pontos que foram realizados em relação a quantidade total de pontos que precisa ser feita.
+- `Esforço(n) =  (PP(n) + PA(n))/PC(n)`
 
-## Porcentagem Real Concluída por Sprint
+## Porcentagem Real Concluída por Sprint(APC)
+
+- Representa a quantidade de trabalho que foi concluída nessa sprint em relação ao trabalho total.
+- `Porcentagem Real Concluída por Sprint = PRP\PC`;
+
 ## Porcentagem Planejada Concluída(PPC)
+
+- Representa como deveria ser a quantidade de trabalho que deveria estar concluída a cada sprint.
+- Divide o trabalho igualmente durante as sprints
+- PPC(n) = n/PS;
+
+
 ## Porcentagem Real Concluída
 
-
-
+- É parecida com APC, porém esta porcentagem representa todo o trabalho feito até o momento e não apenas o trabalho feito em uma sprint.
+- Somatório de todos os APC até o momento. Então se o número da sprint = 5;
+    `Porcentagem Real Concluída(5) = APC(1) + APC(2) + APC(3) +APC(4) + APC(5)`
+    
 ## Aplicação no projeto
 
 Para saber como a equipe aplicou estes conceitos, acesse a [planilha](https://docs.google.com/spreadsheets/d/19gaSvMeYWLQo8qqsFPkk7erNUWJHNUu2WG8Y6mCtvkA/edit?usp=sharing) no google drive.
