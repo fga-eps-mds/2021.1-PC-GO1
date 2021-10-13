@@ -142,7 +142,7 @@ Como nem sempre o custo planejado é igual ao custo real, é necessário utiliza
 ## Porcentagem Real Concluída por Sprint(APC)
 
 - Representa a quantidade de trabalho que foi concluída nessa sprint em relação ao trabalho total.
-- `Porcentagem Real Concluída por Sprint = PRP\PC`;
+- `Porcentagem Real Concluída por Sprint = PRP/PC`;
 
 ## Porcentagem Planejada Concluída(PPC)
 
