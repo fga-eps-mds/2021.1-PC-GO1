@@ -6,7 +6,7 @@
 | 19/10/21 | 1.0 | Adiciona o review | [João Rossi](https://github.com/bielrossi15)|
 
 ## Quando
-Essa sprint se iniciou no dia 03/09/2021 e durou 7 dias terminando dia 10/09/2021
+Essa sprint se iniciou no dia 03/10/2021 e durou 7 dias terminando dia 10/10/2021
 
 ## Análise do Scrum Master
 
