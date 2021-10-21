@@ -16,7 +16,7 @@ Issues | Pontuação | Concluído
 [Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 |
 [Finalizar documentação sprint 6 e iniciar a da 7](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/125) | 0 | :white_check_mark:
 [US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 |
-[Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 |
+[Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 |:x:
 [Refatorar documento de arquitetura](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/110) | 0 | :white_check_mark:
 [US04: Filtrar a pesquisa de documentos a partir dos dados registrados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/51) | 5 | :white_check_mark:
 
