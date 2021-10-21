@@ -6,7 +6,7 @@
 | 08/10/21 | 1.0 | Adiciona o Review | [Paulo Vitor](https://github.com/PauloVitorRocha) |
 
 ## Quando
-Essa sprint se iniciou no dia 26/09/2021 e durou 7 dias terminando dia 03/09/2021
+Essa sprint se iniciou no dia 26/09/2021 e durou 7 dias terminando dia 03/10/2021
 
 ## Análise do Scrum Master
 
