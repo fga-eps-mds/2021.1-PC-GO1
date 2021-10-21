@@ -13,7 +13,7 @@ Issues | Pontuação | Concluído
 [Atualizar o roadmap e diagrama de gantt](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/112)| 0 | :white_check_mark:
 [Atualizar os processos da issues](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/113) | 0 | :white_check_mark:
 [Atualizar os riscos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/123) | 0 | :white_check_mark:
-[Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 |
+[Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 |:x:
 [Finalizar documentação sprint 6 e iniciar a da 7](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/125) | 0 | :white_check_mark:
 [US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 |:x:
 [Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 |:x:
