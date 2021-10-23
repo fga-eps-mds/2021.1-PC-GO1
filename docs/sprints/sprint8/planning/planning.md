@@ -4,7 +4,7 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 19/10/21 | 1.0 | Adiciona planning | [João Rossi](https://github.com/bielrossi15)|
-| 20/10/21 | 1.1 | Atualiza planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 23/10/21 | 1.1 | Atualiza planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
