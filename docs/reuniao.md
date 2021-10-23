@@ -13,6 +13,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 29/08/21 | 0.5 | Adiciona a 13ª reunião e atualiza a 12ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 07/09/21 | 0.6 | Adiciona a 14ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 18/09/21 | 0.7 | Adiciona a 15ª reunião |[Joao Rossi](https://github.com/bielrossi15)|
+| 23/10/21 | 0.8 | Adiciona as reuniões 16,17,18 |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 
@@ -605,3 +606,90 @@ Carlos Eduardo Miranda Roriz, que inclusive chegou atrasado para a reunião.
 |Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 |Carlos Eduardo Miranda Roriz | :white_check_mark: | |
+
+## 16 - Cliente 8 - Release 1
+
+**O que foi abordado**: 
+
+- Apresentação da Release 1
+- Apresentado o ambiente de homologação para o cliente
+**Dificuldades**: 
+
+**Data** : 17/09/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  | |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :white_check_mark: | |
+
+
+## 17 - Cliente 9
+**O que foi abordado**: 
+
+- Apresentado o que será realizado do produto
+- Explicado que o corte de escopo aconteceu devido as diversas dificuldades da equipe.
+- O cliente ainda não tinha testado o produto, assim durante a reunião foi mostrado para ele
+como estava funcionando o sistema.
+- O cliente pediu algumas alterações
+- Foi pedido que o cliente realizasse todos os testes até dia 20/10/2021, pois o pedido para realizar mudanças afeta o que a equipe irá desenvolver.
+
+**Dificuldades**: Cliente teve muitas dificuldades de entender algumas partes da conversa, porém o técnico da polícia, juntamente com a equipe de EPS, ajudou a esclarecer a maioria das dúvidas.
+
+**Data** : 15/10/2021 de 16:00 até às 17:30
+
+**Dúvidas da reunião**: Com os pedidos de mudança a equipe terá que descobrir o novo escopo do projeto.
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  | |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+|Carlos Eduardo Miranda Roriz | :x: | Retirou a disciplina|
+
+
+
+## 18- Cliente 10
+
+
+- O cliente apresentou todas as mudanças que deseja para o software
+- Equipe reduziu novamente o escopo devido a quantidade de alterações que o cliente pediu.
+
+**Dificuldades**: Cliente não ficou satisfeito com a redução de escopo, porém dado os limites da disciplina ele teve que aceitar.
+
+**Data** : 22/10/2021 de 16:00 até às 17:30
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :x:  | Tinha trabalho de outra disciplina no dia|
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+
+
+
