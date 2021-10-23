@@ -6,6 +6,7 @@
 | 11/09/21 | 2.0 | Remodela o formato do documento |[Ivan Diniz Dobbin](https://github.com/darmsDD)
 | 12/10/21 | 2.1 | Adiciona novos conceitos |[Ivan Diniz Dobbin](https://github.com/darmsDD)
 | 13/10/21 | 2.2 | Adiciona novos conceitos |[Ivan Diniz Dobbin](https://github.com/darmsDD)
+| 23/10/21 | 2.3 | Atualiza o conceito do PPC |[Ivan Diniz Dobbin](https://github.com/darmsDD)
 
 ## Introdução
 Este documento tem como objetivo apresentar a projeção de custos da equipe.
@@ -146,16 +147,16 @@ Como nem sempre o custo planejado é igual ao custo real, é necessário utiliza
 
 ## Porcentagem Planejada Concluída(PPC)
 
-- Representa como deveria ser a quantidade de trabalho que deveria estar concluída a cada sprint.
-- Divide o trabalho igualmente durante as sprints
-- PPC(n) = n/PS;
+- Representa a quantidade de trabalho que deveria estar concluída a cada sprint.
+- Tenta dividir o trabalho igualmente durante as sprints
+- `PPC(n) = PP(n)/PRP`;
 
 
 ## Porcentagem Real Concluída
 
 - É parecida com APC, porém esta porcentagem representa todo o trabalho feito até o momento e não apenas o trabalho feito em uma sprint.
 - Somatório de todos os APC até o momento. Então se o número da sprint = 5;
-    `Porcentagem Real Concluída(5) = APC(1) + APC(2) + APC(3) +APC(4) + APC(5)`
+- `Porcentagem Real Concluída(5) = APC(1) + APC(2) + APC(3) +APC(4) + APC(5)`
     
 ## Aplicação no projeto
 
