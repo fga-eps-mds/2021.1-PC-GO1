@@ -4,21 +4,21 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 19/10/21 | 1.0 | Adiciona planning | [João Rossi](https://github.com/bielrossi15)|
-
+| 20/10/21 | 1.1 | Atualiza planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
 Issues | Pontuação | Concluído
 ------------ | -------------- | :--------:
 [Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 | :white_check_mark:
-[Finalizar documentação sprint 7 e iniciar a da 8](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/131) | 0 | 
-[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 | 
+[Finalizar documentação sprint 7 e iniciar a da 8](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/131) | 0 | :x:
+[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 | :x:
 [Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 | :white_check_mark:
-[Pesquisar testes de sistema](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/132) | 0 | :white_check_mark:
-[US05: Ordenar os dados listados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/52) | 3 | :white_check_mark:
-[Coerência de MenuCard](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/139) | 0 | :white_check_mark:
-[Duplo Clique no Login](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/138) | 0 | :white_check_mark:
-[Visibilidade do Header e do Footer](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/137) | 0 |  :white_check_mark:
+[Pesquisar testes de sistema](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/132) | 0 | :x:
+[US05: Ordenar os dados listados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/52) | 3 | :x:
+[Coerência de MenuCard](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/139) | 0 | :x:
+[Duplo Clique no Login](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/138) | 0 |:x:
+[Visibilidade do Header e do Footer](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/137) | 0 |  :x:
 
 
 ## Pareamentos
