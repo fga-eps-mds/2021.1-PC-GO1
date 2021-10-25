@@ -93,7 +93,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** realizar a pesquisa por documentos **para que eu possa** saber quais documentos se encaixam a minha necessidade. |
 | **Priorização** | 8 |
-| **Pontos** | -- |
+| **Pontos** | 5 |
 | **Critérios de aceitação** | - Ter uma página específica para realizar a pesquisa de documentos.<br>- Os dados serão mostrados em forma de lista. |
 
 ### US04
@@ -104,7 +104,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** filtrar os resultados de uma pesquisa a partir de um metadado **para que eu possa** encontrar um documento mais rápido. |
 | **Priorização** | 7 |
-| **Pontos** | -- |
+| **Pontos** | 5 |
 | **Critérios de aceitação** | - Retornar documentos que possuem metadados em comum com o que foi inserido na pesquisa. |
 
 ### US05
@@ -115,7 +115,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** receber a listagem dos documentos de forma ordenada **para que eu possa** procurar por um documento específico de forma simplificada. |
 | **Priorização** | 7 |
-| **Pontos** | -- |
+| **Pontos** | 3 |
 | **Critérios de aceitação** | - Garantir que todo o resultado da pesquisa seja visualizado seguindo certa ordem. <br> - Garantir a visualização dos dados ao lado dos documentos de mesma ordem. |
 
 ### US06
@@ -126,7 +126,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Pesquisa de arquivos](#ep03) |
 | **Descrição** |Eu, **como** usuário, **desejo** visualizar os dados de um documento específico **para que eu possa** avalia-los. |
 | **Priorização** | 8 |
-| **Pontos** | -- |
+| **Pontos** | 8 |
 | **Critérios de aceitação** | - Ter uma página específica para visualizar os detalhes do documento.<br> - Garantir que a pesquisa retorne o documento desejado. |
 
 ### US07
@@ -148,7 +148,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** preencher os campos de login e senha **para que eu possa** acessar o sistema web. |
 | **Priorização** | 7 |
-| **Pontos** | -- |
+| **Pontos** | 5 |
 | **Critérios de aceitação** | - Validar os campos login e senha do usuário. |
 
 ### US09
@@ -159,7 +159,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** acessar os sistama web do arquivo geral **para que eu possa** registrar ou visualizar metadados de documentos. |
 | **Priorização** | 7 |
-| **Pontos** | -- |
+| **Pontos** | 13 |
 | **Critérios de aceitação** | - Validar a autenticação do usuário. </br> - Autenticar e redirecionar o usuário. |
 
 ### US10
@@ -170,9 +170,33 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Épico** | [Login e Cadastro inicial do usuário no sistema](#ep02) |
 | **Descrição** |Eu, **como** usuário, **desejo** que o meu login e senha estejam cadastrados no banco de dados **para que eu possa** ter acesso constante ao sistema de arquivos. |
 | **Priorização** | 7 |
+| **Pontos** | 2 |
+| **Critérios de aceitação** | - Garantir que o login e senha esteja cadastrado no banco de dados. |
+
+### US11
+####  Gerenciar credenciais de usuário
+
+| US11 | [Cadastro de tipos de usuários no sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/167) |
+| ---: | :------- |
+| **Épico** | [Gerenciar credenciais de usuário](#ep02) |
+| **Descrição** |Eu, **como** administrador, **desejo** cadastrar novos usuários com seus respectivos tipos **para que eu possa** dividir as tarefas a serem resolvidas de acordo com a função de cada servidor. |
+| **Priorização** | 5 |
 | **Pontos** | -- |
-| **Critérios de aceitação** | - Garantir que o login e senha esteja cadastrado no banco de dados. | 
+| **Critérios de aceitação** | - Garantir que cada usuário cadastrado tenha uma função atrelada ao seu registro que restrinja quais funcionalidades ele possa acessar. | 
+
+### US12
+####  Cadastrar os usuários no banco de dados
+
+| US12 | [Deletar usuário do sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/59) |
+| ---: | :------- |
+| **Épico** | [Gerenciar credenciais de usuário](#ep02) |
+| **Descrição** |Eu, **como** administrador, **desejo** poder apagar o registro de um usuário do sistema **para que eu possa** impedir o acesso de indivíduos que já não mais fazem parte da organização. |
+| **Priorização** | 4 |
+| **Pontos** | -- |
+| **Critérios de aceitação** | - Garantir que o registro de login e senha de um usuário específico seja deletado. | 
+
 
 ## Referências
 
 **[1]** SERRANO, Maurício; SERRANO, Milene. **Requisitos - Aula 17. 1º/2019**. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
