@@ -46,6 +46,7 @@ nav:
     - Documento de arquitetura: doc_arquitetura.md
     - Pipeline de Integração: pipeline.md
     - Gráfico de Gantt: gantt.md
+    - Testes de sistema/aceitação: teste_aceitacao_sistema.md
     - Metodologia:
       - Templates:
         - Planning: metodologia/templates/planning.md
