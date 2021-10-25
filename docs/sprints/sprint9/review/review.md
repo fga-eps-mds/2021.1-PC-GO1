@@ -32,7 +32,7 @@ Alguns pontos importantes para se observar dos [Control Charts](#control-charts)
 - [3](#ciclo-de-uma-issue-sair-de-sprint-backlog-ate-closed): O tempo de conclusão reduziu consideravelmente, de 12 dias para 5.  
 - [4](#ciclo-de-uma-issue-sair-de-review-in-progress-ate-closed): As issues continuam sendo corrigidas rapidamente, com média de menos de 1 dia. 
  
-Por último é importante ressaltar o quadro de conhecimento, onde alguns membros vem crescendo gradualmente e outros estão estagnados. O decaímento de conhecimento de sprints passadas aconteceu pois o membro da equipe percebeu que não tinha tanto conhecimento como tinha acreditado anteriormente.
+Por último é importante ressaltar o quadro de conhecimento, onde alguns membros vem crescendo gradualmente e outros estão estagnados. O decaimento de conhecimento de sprints passadas aconteceu pois o membro da equipe percebeu que não tinha tanto conhecimento como tinha acreditado anteriormente.
 
 
 ## Riscos
