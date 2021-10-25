@@ -174,7 +174,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Critérios de aceitação** | - Garantir que o login e senha esteja cadastrado no banco de dados. |
 
 ### US11
-####  Gerenciar credenciais de usuário
+####  Cadastro de tipos de usuários no sistema
 
 | US11 | [Cadastro de tipos de usuários no sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/167) |
 | ---: | :------- |
@@ -185,9 +185,9 @@ Criar ferramenta que permita a impressão de etiquetas.
 | **Critérios de aceitação** | - Garantir que cada usuário cadastrado tenha uma função atrelada ao seu registro que restrinja quais funcionalidades ele possa acessar. | 
 
 ### US12
-####  Cadastrar os usuários no banco de dados
+####  Deletar usuário do sistema
 
-| US12 | [Deletar usuário do sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/59) |
+| US12 | [Deletar usuário do sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/168) |
 | ---: | :------- |
 | **Épico** | [Gerenciar credenciais de usuário](#ep02) |
 | **Descrição** |Eu, **como** administrador, **desejo** poder apagar o registro de um usuário do sistema **para que eu possa** impedir o acesso de indivíduos que já não mais fazem parte da organização. |
