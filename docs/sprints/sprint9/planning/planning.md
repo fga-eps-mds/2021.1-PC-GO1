@@ -4,6 +4,7 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 23/10/21 | 1.0 | Adiciona o planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 25/10/21 | 1.0 | Atualiza o planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
@@ -23,14 +24,13 @@ Issues | Pontuação | Concluído
 [Passar o header em cada requisição](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/152) | 0 |  :white_check_mark:
 [[hotfix] Adicionar mais de um tipo de documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/147) | 0 |  :white_check_mark:
 [Criar documento de reunião com o cliente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/143) | 0 |  :white_check_mark:
-[Finalizar documentação da Sprint 8 e iniciar sprint 9](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/144) | 0 |  
-[[hotfix] Sigla da caixa](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/145) | 0 |  
-[Atualizar Analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/142) | 0 |  
-[[hotfix] Temporalidade em anos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/146) | 0 |  
-[Atualizar Custo](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/141) | 0 |  
-[[hotfix] Adicionar novos filtros](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/149) | 0 |  
-[Enviar tempo de testes para sonarcloud](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/153) | 0 |  
-[Descrever novas histórias de usuário na wiki ](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/134) | 0 |  
+[Finalizar documentação da Sprint 8 e iniciar sprint 9](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/144) | 0 |  :white_check_mark:
+[[hotfix] Sigla da caixa](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/145) | 0 |  :x:
+[Atualizar Analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/142) | 0 | :x: 
+[[hotfix] Temporalidade em anos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/146) | 0 |  :x:
+[Atualizar Custo](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/141) | 0 |  :white_check_mark:
+[[hotfix] Adicionar novos filtros](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/149) | 0 | :x:  
+[Descrever novas histórias de usuário na wiki ](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/134) | 0 |  :x:
 
 
 
