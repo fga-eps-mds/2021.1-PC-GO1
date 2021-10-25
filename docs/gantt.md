@@ -2,6 +2,7 @@
 |:----:|:------:|:---------:|:--------:|
 | 09/09/21 | 1.0 | Criação do documento com o diagrama | [Ivan Diniz Dobbin](https://github.com/darmsDD) e [Paulo Vítor]((https://github.com/PauloVitorRocha)) |
 | 09/10/21 | 1.1 | Adiciona versão 2 | [Ivan Diniz Dobbin](https://github.com/darmsDD)
+| 25/10/21 | 1.2 | Adiciona versão 3 | [Ivan Diniz Dobbin](https://github.com/darmsDD)
 
 ## Introdução
 Este documento tem como objetivo apresentar o gráfico de gantt com os marcos do projeto.
@@ -20,7 +21,10 @@ Após acompanhar o ritmo da equipe o diagrama abaixo representa os novos prazos.
 
 [![](imagens/ganttV2.png)](imagens/ganttV2.png)
 
+### Versão 3
+Versão final do diagrama de gantt, essa versão apresenta o escopo real da equipe no final do projeto.
 
+[![](imagens/ganttV3.png)](imagens/ganttV3.png)
 
 
 ## Referências
