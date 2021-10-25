@@ -3,6 +3,7 @@
 |:----:|:------:|:---------:|:--------:|
 | 09/09/21 | 1.0 | Adiciona o documento sobre mitigação de riscos | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 | 09/10/21 | 1.1 | Adiciona novos riscos e informa se os planos de mitigação tem funcionado | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
+| 25/10/21 | 1.2 | Adiciona novos riscos e informa se os planos de mitigação tem funcionado | [Ivan Diniz Dobbin](https://github.com/darmsDD) |
 
 
 
@@ -17,18 +18,14 @@ Risco | Categoria | Timeline | Plano de mitigação | Efetivo
 Ausência de membros nas atividades | 	Organização | 2 | Conversa via videochamada no qual os membros ligam as câmeras|  :white_check_mark:
 Incosistência de requisitos |	Requisitos | 3 | Conversa com o cliente tentando esclarecer melhor o que ele deseja. Tirar todas as dúvidas que forem surgindo. | :white_check_mark:
 Falta de conhecimento técnico da equipe |	Técnico | 6 | Treinamentos nas linguagens que estamos utilizando e pareamentos entre os membros de MDS e EPS | :white_check_mark:
-Problemas Pessoais | Pessoal | 1 | Para esse risco existe a complicação de que ele é repentino. O membro com dificuldade deve tentar informar a equipe com alguns dias de antecedência. | :x:
+Problemas Pessoais | Pessoal | 1 | Para esse risco existe a complicação de que ele é repentino. O membro com dificuldade deve tentar informar a equipe com alguns dias de antecedência. | :white_check_mark:
 Troca do início e término das sprints | Organização | 1 | A equipe deve ser organizar melhor para não ocorrer essa troca de datas, conversando com todos os membros para entender qual o melhor dia para o sprint planning, review e restrospective. | :white_check_mark:
 Outras disciplinas | Pessoal | 1 | Os membros devem informar com antecedência quais semanas estarão mais ocupados com outras disciplinas e assim não poderão contribuir muito com o projeto. | :white_check_mark:
 Problemas de comunicação | Organização | 1 | Os membros devem tentar explicar melhor suas dificuldades. A equipe deve pensar em alternativas ao escutar a dificuldade do integrante da equipe | :white_check_mark:
-Retrabalho por entregas mal feitas | Técnico | 6 | Os membros de MDS devem se esforçar mais para entregar os requisitos mínimos das histórias de usuário. Assim eles devem se basear no protótipo e também tirar dúvidas com os membros de EPS se a história está completa ou não.| Sem resultados até o momento
-Falta de comprometimento com as tarefas | Pessoal | 6 | A equipe de EPS tem conversado com a equipe de MDS sobre o ritmo de suas entregas.  | Sem resultados até o momento
-Sobrecarga de trabalho de alguns membros | Organização | - | A equipe de EPS e 1 membro de MDS tiveram uma sobrecarga muito grande nas últimas sprints, desta maneira foi decidido que a carga de trabalho seria reduzida. | Sem resultados até o momento
-
-
-
-
-
+Retrabalho por entregas mal feitas | Técnico | 6 | Os membros de MDS devem se esforçar mais para entregar os requisitos mínimos das histórias de usuário. Assim eles devem se basear no protótipo e também tirar dúvidas com os membros de EPS se a história está completa ou não.| :white_check_mark:
+Falta de comprometimento com as tarefas | Pessoal | 6 | A equipe de EPS tem conversado com a equipe de MDS sobre o ritmo de suas entregas.  | :x:: apesar das conversas repetidas, alguns membros de MDS vem trabalhando pouco o semestre todo.
+Sobrecarga de trabalho de alguns membros | Organização | 3 | A equipe de EPS e 1 membro de MDS tiveram uma sobrecarga muito grande nas últimas sprints, desta maneira foi decidido que a carga de trabalho seria reduzida. | :white_check_mark:
+Retirada de matéria |Pessoal | 6 | O escopo foi reduzido pela quantidade reduzida de membros | :white_check_mark:
 
 
 
