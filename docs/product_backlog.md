@@ -10,6 +10,7 @@
 | 24/08/21 |  0.4   | Alterando US1 e US2| [Joao Rossi]((https://github.com/bielrossi15)) |
 | 31/08/21 |  0.5   | Corrigindo granularidade das US's| [Paulo Vítor]((https://github.com/PauloVitorRocha)) |
 | 31/08/21 |  0.6   | Adicionando link de Issues | [Joao Rossi]((https://github.com/bielrossi15)) |
+| 25/10/21 |  0.7   | Adição e atualização de US's | [Lorenzo Santos]((https://github.com/lorenzo7377)) |
 
 ## Introdução
 O atual documento tem por objetivo apresentar os épicos, as histórias de usuário (US) e o product backlog da plataforma SysArq. O backlog é composto por US's que são resolvidas em um período de tempo (sprint) e que pertencem a um contexto maior, no caso os épicos.
