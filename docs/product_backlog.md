@@ -178,7 +178,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 
 | US11 | [Cadastro de tipos de usuários no sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/167) |
 | ---: | :------- |
-| **Épico** | [Gerenciar credenciais de usuário](#ep08) |
+| **Épico** | [Gerenciar credenciais de usuário](#ep07) |
 | **Descrição** |Eu, **como** administrador, **desejo** cadastrar novos usuários com seus respectivos tipos **para que eu possa** dividir as tarefas a serem resolvidas de acordo com a função de cada servidor. |
 | **Priorização** | 5 |
 | **Pontos** | -- |
@@ -189,7 +189,7 @@ Criar ferramenta que permita a impressão de etiquetas.
 
 | US12 | [Deletar usuário do sistema](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/168) |
 | ---: | :------- |
-| **Épico** | [Gerenciar credenciais de usuário](#ep08) |
+| **Épico** | [Gerenciar credenciais de usuário](#ep07) |
 | **Descrição** |Eu, **como** administrador, **desejo** poder apagar o registro de um usuário do sistema **para que eu possa** impedir o acesso de indivíduos que já não mais fazem parte da organização. |
 | **Priorização** | 4 |
 | **Pontos** | -- |
