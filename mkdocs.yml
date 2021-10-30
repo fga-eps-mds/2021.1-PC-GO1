@@ -57,7 +57,9 @@ nav:
         - Planejamento: metodologia/gerenciamentoRiscos/risco.md
         - Planos de mitigação: metodologia/gerenciamentoRiscos/planosMitigacao.md
       - Metricas de Qualidade: metodologia/metricas_qualidade.md
-      - Custo: metodologia/custo.md
+      - Custo: 
+        - Método: metodologia/custo/custo.md
+        - Análise: metodologia/custo/analise.md
       - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
       - Sprints: metodologia/sprints.md
