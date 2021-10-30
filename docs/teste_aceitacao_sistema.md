@@ -105,5 +105,5 @@ A partir desse feedback a equipe iniciou as alterações do sistema.
 
 HAMILTON, Thomas. What is System Testing? Types & Definition with Example. GURU99. Disponível em <https://www.guru99.com/system-testing.html>. Acesso em 25 de set. de 2021.
 
-What is System Testing? Acceptance Testing | Software Testing. GeeksforGeeks. Disponível em <https://www.geeksforgeeks.org/acceptance-testing-software-testing/>. Acesso em 25 de set. de 2021.
+Acceptance Testing | Software Testing. GeeksforGeeks. Disponível em <https://www.geeksforgeeks.org/acceptance-testing-software-testing/>. Acesso em 25 de set. de 2021.
 
