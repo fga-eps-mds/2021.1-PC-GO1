@@ -55,7 +55,7 @@ Estes gráficos mostram o desvio do custo e prazo durante as sprints.
 [![](imagens/R2_CPI_SPI.png)](imagens/R2_CPI_SPI.png)
 
 
-Observando a R1 é possível observar um desenvolvimento nulo, tornando 0 o CP1 e o SP1. Lembrando que quanto mais abaixo de 1 maior o atraso e prejuízo do projeto, então o 0 representa um atraso enorme e muitos prejuízos. Percebendo isso a equipe fez um esforço a mais no MVP para reduzir o atraso, mostrando índices muito acima de 1 na sprint. O índice acima de 1 representa neste caso que a equipe conseguiu desenvolver mais que o esperado durante a sprint e assim reduziu o prejuízo anterior. Na R2 houve estagnação, trazendo mais uma vez atrasos e prejuízos, assim como na R1.
+Observando a R1 é possível observar um desenvolvimento nulo, tornando 0 o CP1 e o SP1. Lembrando que quanto mais abaixo de 1 maior o atraso e prejuízo do projeto, então o 0 representa um atraso enorme e muitos prejuízos. Percebendo isso a equipe fez um esforço a mais no MVP para reduzir o atraso, mostrando índices muito acima de 1 na sprint 6. O índice acima de 1 representa neste caso que a equipe conseguiu desenvolver mais que o esperado durante a sprint e assim reduziu o prejuízo anterior. Na R2 houve estagnação, trazendo mais uma vez atrasos e prejuízos, assim como na R1.
 
 
 
