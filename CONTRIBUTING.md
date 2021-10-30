@@ -1,10 +1,14 @@
+## Como começar?
+* Para contribuir no projeto é recomendado abrir as issues existentes e o backlog do produto em [SysArq Docs](https://fga-eps-mds.github.io/2021.1-PC-GO1/) para entender o que o projeto precisa atualmente.
+* Se você perceber que o seu problema ainda não foi documentado crie uma issue, porém priorize as já existentes.
+
 ## Como contribuir?
 
-* Se você for um colaborador externo, dê um fork no projeto
-* Issues só poderão ser criadas com os templates especificados no repositório
-* A criação de branches deve seguir a política de branches
-* No desenvolvimento usar nossa política de commits
-* Pull requests só serão aceitos se estiverem com o template especificado no repositório.
+* Se você for um colaborador externo, dê um fork no projeto.
+* Issues só poderão ser criadas com os [templates de issue](.github/ISSUE_TEMPLATE) especificados no repositório.
+* A criação de branches deve seguir a política de branches.
+* No desenvolvimento, usar nossa política de commits, que pode ser encontrado no arquivo sobre [contribuição](CONTRIBUTING.md).
+* Pull requests só serão aceitos se estiverem com o [template de pull request](.github/ISSUE_TEMPLATE/PULL_REQUEST_TEMPLATE.md) especificado no repositório.
 
 ## Política de branches
 
