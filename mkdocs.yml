@@ -46,6 +46,8 @@ nav:
     - Documento de arquitetura: doc_arquitetura.md
     - Pipeline de Integração: pipeline.md
     - Gráfico de Gantt: gantt.md
+    - Testes de sistema/aceitação: teste_aceitacao_sistema.md
+    - Hipóteses de negócio: hipotese_negocio.md
     - Metodologia:
       - Templates:
         - Planning: metodologia/templates/planning.md
@@ -55,7 +57,9 @@ nav:
         - Planejamento: metodologia/gerenciamentoRiscos/risco.md
         - Planos de mitigação: metodologia/gerenciamentoRiscos/planosMitigacao.md
       - Metricas de Qualidade: metodologia/metricas_qualidade.md
-      - Custo: metodologia/custo.md
+      - Custo: 
+        - Método: metodologia/custo/custo.md
+        - Análise: metodologia/custo/analise.md
       - Ferramentas: metodologia/ferramentas.md
       - Agenda: metodologia/agenda.md
       - Sprints: metodologia/sprints.md
@@ -91,6 +95,18 @@ nav:
       - Retrospective: sprints/sprint6/retrospective/retrospective.md
     - Sprint7:
       - Planning: sprints/sprint7/planning/planning.md
+      - Review: sprints/sprint7/review/review.md
+      - Retrospective: sprints/sprint7/retrospective/retrospective.md
+    - Sprint8:
+      - Planning: sprints/sprint8/planning/planning.md
+      - Review: sprints/sprint8/review/review.md
+      - Retrospective: sprints/sprint8/retrospective/retrospective.md
+    - Sprint9:
+      - Planning: sprints/sprint9/planning/planning.md
+      - Review: sprints/sprint9/review/review.md
+      - Retrospective: sprints/sprint9/retrospective/retrospective.md
+    - Sprint10:
+      - Planning: sprints/sprint10/planning/planning.md
   - Políticas do Repositório: 
     - Como contribuir: contributing.md
     - Código de conduta: code_of_conduct.md

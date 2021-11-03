@@ -3,24 +3,22 @@
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
-| 08/10/21 | 1.0 | Adiciona planning | [Paulo Vitor](https://github.com/PauloVitorRocha)|
-
+| 19/10/21 | 1.0 | Adiciona planning | [João Rossi](https://github.com/bielrossi15)|
+| 23/10/21 | 1.1 | Atualiza planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
 Issues | Pontuação | Concluído
 ------------ | -------------- | :--------:
-[Atualizar o roadmap e diagrama de gantt](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/112)| 0 | :white_check_mark:
-[Atualizar os processos da issues](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/113) | 0 | :white_check_mark:
-[Atualizar os riscos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/123) | 0 | :white_check_mark:
-[Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 |:x:
-[Finalizar documentação sprint 6 e iniciar a da 7](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/125) | 0 | :white_check_mark:
-[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 |:x:
-[Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 |:x:
-[Refatorar documento de arquitetura](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/110) | 0 | :white_check_mark:
-[US04: Filtrar a pesquisa de documentos a partir dos dados registrados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/51) | 5 | :white_check_mark:
-
- 
+[Criar custos por sprint](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/111) | 0 | :white_check_mark:
+[Finalizar documentação sprint 7 e iniciar a da 8](https://github.com/fga-eps-mds/2021.1-PC-GO1/issues/131) | 0 | :x:
+[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 | :x:
+[Começar analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/124) | 0 | :white_check_mark:
+[Pesquisar testes de sistema](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/132) | 0 | :x:
+[US05: Ordenar os dados listados](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/52) | 3 | :x:
+[Coerência de MenuCard](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/139) | 0 | :x:
+[Duplo Clique no Login](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/138) | 0 |:x:
+[Visibilidade do Header e do Footer](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/137) | 0 |  :x:
 
 
 ## Pareamentos
