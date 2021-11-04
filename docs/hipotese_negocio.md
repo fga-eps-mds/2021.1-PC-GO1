@@ -12,9 +12,9 @@ Este documento tem como objetivo apresentar as hipóteses de negócio planejadas
 
 
 ## Desenvolvimento
-Segue uma tabela abaixo com as métricas, resultados esperados e obtidos:
+Segue uma tabela abaixo com as medidas, resultados esperados e obtidos:
 
-| Métrica | Resultado Esperado | Resultado Obtido|
+| Medidas | Resultado Esperado | Resultado Obtido|
 |:----:|:------:| :----------:|
 |Quantidade de arquivos cadastrados no banco |100 arquivos cadastrados | 2 arquivos cadastrados |
 |Quantidade de pesquisas no banco |20 pesquisas de documentos por semana | 3 pesquisas |
