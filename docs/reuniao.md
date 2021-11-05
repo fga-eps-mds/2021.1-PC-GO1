@@ -15,6 +15,7 @@ Documento com o resumo das reuniões antes de começar as Sprints
 | 18/09/21 | 0.7 | Adiciona a 15ª reunião |[Joao Rossi](https://github.com/bielrossi15)|
 | 23/10/21 | 0.8 | Adiciona as reuniões 16,17,18 |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 | 02/11/21 | 0.9 | Adiciona a 19ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 05/11/21 | 1.0 | Adiciona a 20ª reunião |[Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 
@@ -693,7 +694,7 @@ como estava funcionando o sistema.
 |Gabriel Marcolino Rodrigues | :white_check_mark: | |
 
 
-## 18- Cliente 11
+## 19- Cliente 11
 
 
 - A equipe apresentou o software para o cliente com as novas mudanças.
@@ -704,6 +705,32 @@ como estava funcionando o sistema.
 **Dificuldades**: Dúvidas de qual seria a melhor maneira de desenvolver um campo.
 
 **Data** : 29/10/2021 de 16:00 até às 17:00
+
+**Dúvidas da reunião**: Nenhuma
+
+**Meio de comunicação**: Jitsi Meet
+
+**Tabela de Participação**:
+
+|Membros|Participou|Justificativa para falta|
+|:------:| :--------: | :--------: | 
+|João Gabriel Rossi de Borba | :white_check_mark: | |
+|João Matheus de Sousa Rodrigues | :white_check_mark: | |
+|Paulo Vítor Coelho da Rocha | :white_check_mark: | |
+|Ivan Diniz Dobbin | :white_check_mark:  | |
+|Lorenzo de Lima Alves dos Santos | :white_check_mark: | |
+|Gabriel Marcolino Rodrigues | :white_check_mark: | |
+
+## 20- Cliente 12
+
+
+- A equipe apresentou o software para o cliente com as novas mudanças.
+- O cliente pediu mais algumas alterações.
+- Equipe explicou que provavelmente não conseguiria realizar todas as alterações pedidas pelo cliente.
+
+**Dificuldades**: Nenhuma
+
+**Data** : 05/11/2021 de 16:00 até às 17:00
 
 **Dúvidas da reunião**: Nenhuma
 
