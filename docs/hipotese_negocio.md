@@ -21,7 +21,7 @@ Segue uma tabela abaixo com as medidas, resultados esperados e obtidos:
 |Respostas dos usuários ao [formulário](https://forms.gle/6bdLCuK7Ag5gQYqn9) |1 avaliação positiva pelo usuário | 1 avaliação positiva( nota > 4 no gráfico de nível de satisfação) |
 
 
-A equipe teve dificuldades com as medidas **Quantidade de arquivos cadastrados no banco** e **Quantidade de pesquisas no banco**. O usuário utilizou a plataforma mais para testes do que para o dia a dia, então o resultado obtido foi muito abaixo do esperado. Mesmo com a pouca quantidade de resultados ainda foi possível receber avaliações dos clientes durantes as reuniões semanais, permitindo que algumas mudanças fossem feitas antes do fim da disciplina.
+A equipe teve dificuldades com as medidas **Quantidade de arquivos cadastrados no banco** e **Quantidade de pesquisas no banco**. O usuário utilizou a plataforma mais para testes do que para o dia a dia, então o resultado obtido foi muito abaixo do esperado, porém mesmo com a quantidade de resultados reduzida, obtivemos feedback do cliente durante as reuniões semanais, permitindo assim a realização das devidas mudanças antes do fim da disciplina.
 
 
 ### Formulário
