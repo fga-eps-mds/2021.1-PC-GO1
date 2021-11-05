@@ -14,7 +14,7 @@ Issues | Pontuação | Concluído
 [[hotfix] Sigla da caixa](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/145) | 0 |  :white_check_mark:
 [Atualizar Analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/142) | 0 |  :x:
 [[hotfix] Temporalidade em anos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/146) | 0 |  :white_check_mark:
-[[hotfix] Adicionar novos filtros](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/149) | 0 |   :white_check_mark:
+[[hotfix] Adicionar novos filtros](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/149) | 0 |   :x:
 [Atualizar histórias de usuário na wiki ](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/134) | 0 | :white_check_mark: 
 [Atualizar o cadastro de campos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/162) | 0 |  :white_check_mark:
 [Atualizar relação de frequência](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/164) | 0 |  :white_check_mark:
@@ -28,7 +28,7 @@ Issues | Pontuação | Concluído
 [Atualizar os riscos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/157) | 0 |  :white_check_mark:
 [Adicionar gráficos no documento de custo](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/176) | 0 |  :white_check_mark:
 [Atualizar o guia de contribuição](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/178) | 0 |  :white_check_mark:
-[Utilizar classe public worker nos documentos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/175) | 0 |  :white_check_mark:
+[Utilizar classe public worker nos documentos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/175) | 0 |  :x:
 
 
 
