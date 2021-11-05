@@ -34,7 +34,7 @@ A equipe teve dificuldades com as medidas **Quantidade de arquivos cadastrados n
 
 O cliente pareceu gostar bastante do sistema, baseado na nota 6 e nos elogios. No entanto o cliente pediu diversas alterações nos fatores negativos e isso é comum acontecer, pois quanto mais o cliente utiliza o sistema mais ele percebe o que está faltando ou o que precisa ser alterado. A equipe realizou as mudanças no software que foram solicitadas na reunião anterior, porém as alterações solicitadas no formulário não serão feitas pela falta de tempo. 
 
-Para finalizar ,a equipe agradece os comentários finais e fica feliz que conseguiu contruir um software que o cliente tenha gostado.
+Para finalizar, a equipe agradece os comentários finais e fica muito feliz por construir um software que seja útil para o cliente e que ele tenha gostado.
 
 
 
