@@ -32,7 +32,7 @@ A equipe teve dificuldades com as medidas **Quantidade de arquivos cadastrados n
 [![](imagens/fatores_negativos_2.png)](imagens/fatores_negativos_2.png)
 [![](imagens/alterar_algo.png)](imagens/alterar_algo.png)
 
-O cliente pareceu gostar bastante do sistema, baseado na nota 6 e nos elogios. Observe porém que o cliente pediu diversas alterações nos fatores negativos, isso é comum acontecer, pois quanto mais o cliente utiliza o sistema mais ele percebe o que está faltando ou o que precisa ser alterado. A equipe realizou mudanças no software que foram solicitadas anteriormente, porém as alterações solicitadas no formulário não serão feitas pela falta de tempo. 
+O cliente pareceu gostar bastante do sistema, baseado na nota 6 e nos elogios. No entanto o cliente pediu diversas alterações nos fatores negativos e isso é comum acontecer, pois quanto mais o cliente utiliza o sistema mais ele percebe o que está faltando ou o que precisa ser alterado. A equipe realizou as mudanças no software que foram solicitadas na reunião anterior, porém as alterações solicitadas no formulário não serão feitas pela falta de tempo. 
 
 Para finalizar ,a equipe agradece os comentários finais e fica feliz que conseguiu contruir um software que o cliente tenha gostado.
 
