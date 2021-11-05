@@ -38,9 +38,8 @@ Issues | Pontuação | Concluído
 | Pareamento | Membros
 |:--------: | :-------:
 | 1 | Paulo  e João Matheus
-| 2 | João Gabriel, João Matheus e Paulo
-| 3 | Gabriel e Lorenzo
-| 4 | João Gabriel e Ivan
+| 2 | Gabriel e Lorenzo
+| 3 | João Gabriel e Ivan
 
 ## Pápeis nessa sprint
 
