@@ -15,6 +15,7 @@
 |16/09/2021|1.1|Corrigindo Diagrama de Classes, DE-R e DLD|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |16/09/2021|1.2|Adicionando DE-R e DLD de profile|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |07/10/2021|2.0|Atualizando diagramas para refletir o backend|[Paulo Vitor](https://github.com/PauloVitorRocha)|
+|04/11/2021|3.0|Atualiza diagramas para refletir o sistema implementado|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 
 
 ## **1. Introdução**
@@ -98,19 +99,19 @@ O Django REST framework, organiza o projeto em diretórios em que cada um conté
 - **requirements** : organiza todos os pacotes/componentes que a aplicação utiliza em arquivos.
 
 ### **4.3 Diagrama de classes**
-[![class_diagram_v3.png](./imagens/class_diagram_v3.png)](./imagens/class_diagram_v3.png)
+[![class_diagram_final.png](./imagens/class_diagram_final.png)](./imagens/class_diagram_final.png)
 
 ## **5. Visão de Implementação**
 
 ### **5.1 Diagrama Entidade Relacionamento**
 #### 5.1.1 Microsserviço de Arquivos
-[![DER_SysArq_v3.png](./imagens/DER_SysArq_v3.png)](./imagens/DER_SysArq_v3.png)
+[![DER_SysArq_Final.png](./imagens/DER_SysArq_Final.png)](./imagens/DER_SysArq_Final.png)
 #### 5.1.2 Microsserviço de Profile
 [![DER_Profile_v3.png](./imagens/DER_Profile_v3.png)](./imagens/DER_Profile_v3.png)
 
 ### **5.2 Diagrama Lógico de Dados**
 #### 5.2.1 Microsserviço de Arquivos
-[![DLD_SysArq_v3.png](./imagens/DLD_SysArq_v3.png)](./imagens/DLD_SysArq_v3.png)
+[![DLD_SysArq_final.png](./imagens/DLD_SysArq_final.png)](./imagens/DLD_SysArq_final.png)
 #### 5.2.2 Microsserviço de Profile
 [![DLD_Profile_v3.png](./imagens/DLD_Profile_v3.png)](./imagens/DLD_Profile_v3.png)
 
