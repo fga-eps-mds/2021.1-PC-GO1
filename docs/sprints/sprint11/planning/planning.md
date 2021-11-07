@@ -4,20 +4,21 @@
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 05/11/21 | 1.0 | Adiciona o planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
+| 07/11/21 | 1.1 | Atualiza o planning | [Ivan Diniz Dobbin](https://github.com/darmsDD)|
 
 
 ## Sprint Backlog
 Issues | Pontuação | Concluído
 ------------ | -------------- | :--------:
-[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 | 
+[US06: Visualizar detalhes de um documento](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/53) | 8 |  :white_check_mark:
 [Atualizar Analytics](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/142) | 0 |  :white_check_mark:
 [[hotfix] Adicionar novos filtros](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/149) | 0 | :white_check_mark:
 [Utilizar classe public worker nos documentos](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/175) | 0 | :white_check_mark:
 [Adiciona link para guia de contribuição](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/184) | 0 | :white_check_mark:
 [Atualiza a validação do MVP](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/183) | 0 | :white_check_mark:
 [Atualizar o documento de arquitetura](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/158) | 0 | :white_check_mark:
-[Inicia documentação da sprint 11 e finaliza a da 10](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/182) | 0 | 
-[Reunião com cliente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/185) | 0 | 
+[Inicia documentação da sprint 11 e finaliza a da 10](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/182) | 0 |  :white_check_mark:
+[Reunião com cliente](https://github.com/fga-eps-mds/2021.1-pc-go1/issues/185) | 0 |  :white_check_mark:
 
 
 ## Pareamentos
