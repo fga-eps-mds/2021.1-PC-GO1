@@ -81,7 +81,7 @@ E a Testes executa os testes, executa o escaneamento do *SonarCloud* e envia o r
 
 ### Implantação
 
-A *action* de Implantação realiza o deploy das alterações no *heroku*. Essa *action* é executada em todo *push* realizado na *devel*.
+A *action* de Implantação realiza o *deploy* das alterações no *heroku*. Essa *action* é executada em todo *push* realizado na *devel*.
 
 ### Nova Versão
 
@@ -91,8 +91,9 @@ A *action* de Nova Versão é executada em todo *pull request* fundido na *main*
 
 A Nova Versão verifica a necessidade de gerar uma nova versão, verifica que tipo de versão deve ser gerada, coleta as métricas calculadas pelo *SonarCloud* no escaneamento, cria uma *Release* (versão) com o arquivo das métricas no *Assets* e envia o arquivo das métricas para o repositório de documentação.
 
-Para que o envio do arquivo das métricas para o repositório de documentação seja realizado com sucesso, o ***Token* de Acesso Pessoal** (*Personal Access Token* - **PAT**) do usuário utilizado para realizar essa ação (*commit*) na *action* deve ser um *token* válido.
+Para que o envio do arquivo das métricas para o repositório de documentação seja realizado com sucesso, o ***Token* de Acesso Pessoal** (*Personal Access Token* - **PAT**) do usuário utilizado para realizar essa ação (*commit*) na *action* deve ser um *token* válido. A imagem abaixo mostra um exemplo de tela de gerenciamento de *actions secrets*.
 
+[![](imagens/actions_secrets.png)](imagens/actions_secrets.png)
 
 ## Referências
 
