@@ -1,20 +1,20 @@
-<h1 style="text-align: center">Pipeline de Integração</h1>
+<h1 style="text-align: center">Pipeline de Integração e Entrega</h1>
 
 |   Data   | Versão |  Descrição  | Autor(es)|
 |  :----:  | :----: | :---------: |:--------:|
 | 16/09/21 |  0.1   | Versão inicial do documento | [Matheus](https://github.com/J-Matheus) |
 | 16/09/21 |  0.2   | Adiciona a descrição do Fluxo do Repositório e Github Actions | [Matheus](https://github.com/J-Matheus) |
-
+| 11/11/21 |  1.0   | Versão final do documento | [Matheus](https://github.com/J-Matheus) |
 
 ## Introdução
 
-Este documento apresenta o Pipeline de Integração utilizado nos repositórios do projeto.
+Este documento apresenta o Pipeline de Integração e Entrega utilizado nos repositórios do projeto.
 
 ## Fluxo do Repositório
 
 O fluxo do repositório é muito importante para o gerenciamento do trabalho de uma equipe. Esse fluxo permite o desenvolvimento concorrente de funcionalidades e o isolamento de ambientes.
 
-### Escolha
+### Escolha - Repositórios de Desenvolvimento
 
 |  Indicado para   | *GitFlow* |    *GitHub Flow*   |
 | :--------------: | :-------: | :----------------: |
@@ -33,8 +33,8 @@ Na imagem abaixo, vemos como foi configurado o fluxo dos repositórios de códig
 
 Podemos destacar as seguintes características nesse fluxo:
 
-- Dois ramos (*branchs*) permanentes;
-    - *main*: ambiente de produção.
+- Dois ramos (*branchs*) permanentes:
+    - *main*: ambiente de produção;
     - *devel*: ambiente de homologação.
 
 - As mudanças da *devel* que são fundidas (*Pull Request merge*) na *main*  não geram *release* **ou** geram uma *release* (*major* ou *minor*).
@@ -42,6 +42,14 @@ Podemos destacar as seguintes características nesse fluxo:
 - As mudanças de um ramo do tipo *hotfix* que são fundidas (*Pull Request Merge*) na *main* geram uma *release* *patch*.
 
 - O desenvolvimento de novas funcionalidades e de correções pode ser realizado de maneira simultânea.
+
+### Fluxo do Repositório de Documentação
+
+No repositório de documentação, utilizamos um *GitHub Flow* adaptado. Esse *GitHub Flow* adaptado é menos restrito, pois:
+
+- Não possui ambiente de desenvolvimento;
+
+- Permite que os administradores do respositório realizem *push* de *commits* na *branch* *main*.
 
 ## *GitHub Actions*
 
