@@ -55,19 +55,21 @@ No repositório de documentação, utilizamos um *GitHub Flow* adaptado. Esse *G
 
 ## *GitHub Actions*
 
-As *Actions* automatizam trabalhos no fluxo de repositório. Em nossos repositórios, utilizamos seis *actions*.
+As *actions* automatizam trabalhos no fluxo de repositório. Em nossos repositórios, utilizamos seis *actions*.
 
 - No repositório de documentação, utilizamos a *action* de *Deploy* (*deploy* da página de documentação).
 
-- Nos repositórios de desenvolvimento, utilizamos as *actions* de Compilação, Estilo, Testes, Nova Versão e Implementação.
+- Nos repositórios de desenvolvimento, utilizamos as *actions* de Compilação, Estilo, Testes, Nova Versão e Implantação.
 
 ### *Deploy*
 
-A *Action* de *Deploy* é executada em todo *Push* na *main*. E, como dito anteriormente, realiza o *deploy* da página de apresentação e documentação do projeto.
+A *action* de *Deploy* é executada em todo *push* na *main*. E, como dito anteriormente, realiza o *deploy* da página de apresentação e documentação do projeto.
+
+[![Página Inicial da Página de Apresentação e Documentação](imagens/doc_home_page.png)](imagens/doc_home_page.png)
 
 ### Compilação, Estilo e Testes
 
-As *Actions* de Compilação, Estilo e Testes são executadas em todo *Pull Request* para *main* ou *devel* e em todo *Push* para *main* ou *devel*.
+As *actions* de Compilação, Estilo e Testes são executadas em todo *pull request* para *main* ou *devel* e em todo *push* para *main* ou *devel*.
 
 A Compilação verifica se o *up* do *container* ocorre sem erros.
 
@@ -77,11 +79,15 @@ E a Testes executa os testes, executa o escaneamento do *SonarCloud* e envia o r
 
 [![](imagens/actions_badge.png)](imagens/actions_badge.png)
 
+### Implantação
+
+A *action* de Implantação realiza o deploy das alterações no *heroku* (ambiente de desenvolvimento). Essa *action* executa em todo *push* realizado na *devel*.
+
 ### Nova Versão
 
-A *Action* de Nova Versão é executada em todo Pull Request fundido na *main*.
+A *action* de Nova Versão é executada em todo *pull request* fundido na *main*.
 
-A Nova Versão verifica a necessidade de gerar uma nova versão, verifica que tipo de versão deve ser gerada, coleta as métricas calculadas pelo SonarCloud no escaneamento, cria uma *Release* (versão) com o arquivo das métricas no *Assets* e envia o arquivo das métricas para o repositório de documentação.
+A Nova Versão verifica a necessidade de gerar uma nova versão, verifica que tipo de versão deve ser gerada, coleta as métricas calculadas pelo *SonarCloud* no escaneamento, cria uma *Release* (versão) com o arquivo das métricas no *Assets* e envia o arquivo das métricas para o repositório de documentação.
 
 [![](imagens/release_action.png)](imagens/release_action.png)
 
