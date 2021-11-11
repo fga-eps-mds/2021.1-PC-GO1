@@ -51,9 +51,19 @@ No repositório de documentação, utilizamos um *GitHub Flow* adaptado. Esse *G
 
 - Permite que os administradores do respositório realizem *push* de *commits* na *branch* *main*.
 
+[![Configuração de Regra de Proteção de Branch](imagens/branch_protection_rule.png)](imagens/branch_protection_rule.png)
+
 ## *GitHub Actions*
 
-As *Actions* automatizam trabalhos no fluxo de repositório. Em nossos repositórios, utilizamos quatro actions: Compilação, Estilo, Testes e Nova Versão.
+As *Actions* automatizam trabalhos no fluxo de repositório. Em nossos repositórios, utilizamos seis *actions*.
+
+- No repositório de documentação, utilizamos a *action* de *Deploy* (*deploy* da página de documentação).
+
+- Nos repositórios de desenvolvimento, utilizamos as *actions* de Compilação, Estilo, Testes, Nova Versão e Implementação.
+
+### *Deploy*
+
+A *Action* de *Deploy* é executada em todo *Push* na *main*. E, como dito anteriormente, realiza o *deploy* da página de apresentação e documentação do projeto.
 
 ### Compilação, Estilo e Testes
 
