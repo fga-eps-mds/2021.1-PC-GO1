@@ -44,7 +44,7 @@ nav:
     - Identidade Visual: visual_id.md
     - Product Backlog: product_backlog.md
     - Documento de arquitetura: doc_arquitetura.md
-    - Pipeline de Integração: pipeline.md
+    - Pipeline: pipeline.md
     - Gráfico de Gantt: gantt.md
     - Testes de sistema/aceitação: teste_aceitacao_sistema.md
     - Hipóteses de negócio: hipotese_negocio.md
